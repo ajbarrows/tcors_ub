@@ -19,8 +19,8 @@ library(ggplot2)
 theme_set(theme_classic())
 
 # load data
-load("../clean/s2_data.RData")
-write.csv(df, "../clean/s2_data.csv", row.names = FALSE)
+load("../../data/clean/s2_data.RData")
+# write.csv(df, "../clean/s2_data.csv", row.names = FALSE)
 ```
 
 ## TCORS "Study 2" Data

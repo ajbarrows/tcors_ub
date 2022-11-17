@@ -1,0 +1,237 @@
+---
+title: "Extending Study 2 Results"
+date: "2022-10-18"
+output: html_notebook
+---
+
+```{r}
+library(dplyr)
+library(ggplot2)
+
+theme_set(theme_classic())
+```
+
+
+Load clean data set
+
+```{r}
+load("../../data/clean/s2_data.RData")
+```
+
+
+
+```{r}
+w12_subset <- df %>% filter(week == "week12")
+n_w12 <- w12_subset %>% count(screen_id) %>% nrow()
+n_nicotine <- w12_subset %>% filter(!is.na(carmine_nicotine)) %>% nrow()
+```
+
+
+`r n_w12` participants had CPD values at Week 12. Of those, `r n_nicotine` have usual brand nicotine values that map from Carmines et al. (2019).
+
+
+```{r}
+w12_nomiss <- w12_subset %>% 
+  filter(!is.na(carmine_nicotine))
+```
+
+
+
+
+```{r}
+w12_nomiss$carmine_nic_scaled <- scale(w12_nomiss$carmine_nicotine)
+```
+
+
+
+
+## Difference in Mean Week 12 CPD by Treatment Group
+
+With original covariates: Baseline CPD, age, sex, menthol status, population
+
+### Original Data set
+
+```{r}
+# study
+ff_study <- study_mean ~ dose + baseline_cpd + screen_age + screen_sex + menthol_status + project
+study_og_fit <- lm(ff_study, data = w12_subset)
+summary(study_og_fit)
+```
+
+
+```{r}
+# total
+ff_total <- total_cpd ~ dose + baseline_cpd + screen_age + screen_sex + menthol_status + project
+total_og_fit <- lm(ff_total, data = w12_subset)
+summary(total_og_fit)
+```
+
+
+### Dataset Limited to only those with UB nicotine values
+
+
+```{r}
+# study
+study_new_fit <- lm(ff_study, data = w12_nomiss)
+summary(study_new_fit)
+```
+
+
+
+```{r}
+# total CPD
+total_new_fit <- lm(ff_total, data = w12_nomiss)
+summary(total_new_fit)
+```
+
+
+
+## Difference in Mean Week 12 CPD with UB Nicotine
+
+With original covariates: Baseline CPD, age, sex, menthol status, population
+
+_plus_ UB nicotine
+
+```{r}
+ff_study_nic <- study_mean ~ dose + baseline_cpd + screen_age + screen_sex + menthol_status + project + carmine_nic_scaled
+
+study_nic_fit <- lm(ff_study_nic, data = w12_nomiss)
+summary(study_nic_fit)
+```
+
+
+
+```{r}
+ff_total_nic <- total_cpd ~ dose + baseline_cpd + screen_age + screen_sex + menthol_status + project + carmine_nic_scaled
+
+total_nic_fit <- lm(ff_total_nic, data = w12_nomiss)
+summary(total_nic_fit)
+```
+
+
+```{r}
+models <- list(
+  "study_og" = study_og_fit,
+  "study_new"=  study_new_fit,
+  "study_nic" = study_nic_fit,
+  "total_og" = total_og_fit,
+  "total_new" = total_new_fit,
+  "total_nic" = total_nic_fit
+  )
+
+get_coefs <- function(model_vector) {
+  coefs <- data.frame()
+  
+  for (m in 1:length(model_vector)) {
+     tmp <- as.data.frame(coef(model_vector[[m]]))
+     tmp <- cbind(tmp, as.data.frame(coef(summary(model_vector[[m]]))[,4]) )
+     tmp$model <- names(model_vector[m])
+     tmp <- tmp %>% tibble::rownames_to_column()
+     names(tmp) <- c("feature", "beta", "p_val", "model")
+     coefs <- rbind(coefs, tmp)
+  }
+  
+  coefs %>%
+    mutate(sig = case_when(
+      p_val < .001 ~ "***",
+      p_val < .01 ~ "**",
+      p_val < .05 ~ "*"
+    ))
+}
+
+coefs <- get_coefs(models)
+
+```
+
+
+
+```{r}
+coefs_plt <- coefs %>%
+  filter(feature != "(Intercept)") %>%
+  tidyr::separate(
+    col = model,
+    into = c("outcome", "model")
+  ) %>%
+  mutate(model = factor(model, levels = c("og", "new", "nic")))
+
+coefs_plt %>%
+  filter(outcome == "study") %>% 
+  ggplot(aes(y = feature, x = beta, fill = model, label = sig)) +
+  geom_col(position = "dodge") +
+  geom_text(aes(x = beta + 0.5), position = position_dodge(width = 0.9)) +
+  labs(
+    title = "TCORS Study 2 GLMs"
+  )
+
+ggsave("../figures/full_glm.png", dpi = "retina")
+  
+```
+
+
+
+## Correlation Between CPD and UB Nicotine Content
+
+```{r}
+w12_recode %>%
+  mutate(log_nic = log(carmine_nicotine)) %>%
+  select(carmine_nicotine, adherence) %>%
+  plot()
+  
+  
+#   
+#   select(screen_id, trt_recode, carmine_nicotine, baseline_cpd, total_cpd, study_mean, delta_cpd) %>%
+#   tidyr::pivot_longer(-c(screen_id, trt_recode, carmine_nicotine)) %>%
+#   ggplot(aes(x = carmine_nicotine, y = value)) +
+#   geom_point() +
+#   ggpmisc::stat_poly_line(se = FALSE) +
+#   ggpmisc::stat_poly_eq() +
+#   facet_grid(rows = vars(name), cols = vars(trt_recode)) +
+#   labs(
+#     title = "Correlation* Between UB Nic. and CPD",
+#     caption = "* Lack thereof",
+#     y = "Avg. Cigarettes Per Day",
+#     x = "Usual Brand Nicotine Content (mg/g)"
+#   )
+# ggsave("../figures/ub_nic_cor.png", dpi = "retina")
+
+```
+
+
+
+
+
+
+
+
+A bit of a hack-wrangle..
+
+
+```{r}
+# combine VLNC conditions
+w12_recode <- df %>% 
+  mutate(trt_recode = ifelse(dose == 0.4 | dose == 2.4, "treatment", "control")) %>%
+  filter(week == "week12")
+ff_total <- total_cpd ~ trt_recode + baseline_cpd + screen_age + screen_sex + menthol_status + project
+anova_recode <- lm(ff_total, data = w12_recode)
+car::Anova(anova_recode, type = "III")
+summary(anova_recode)
+
+write.csv(w12_recode, file = "../../data/clean/w12_recode.csv", row.names = FALSE)
+
+```
+
+
+```{r}
+trt <- w12_recode[w12_recode$trt_recode == "treatment", ]
+ctl <- w12_recode[w12_recode$trt_recode == "control", ]
+x1 <- predict(anova_recode, trt)
+x2 <- predict(anova_recode, ctl)
+
+w12_recode$predicted <- predict(anova_recode, w12_recode)
+
+effsize::cohen.d(w12_recode$predicted, w12_recode$trt_recode)
+
+```
+
+
+

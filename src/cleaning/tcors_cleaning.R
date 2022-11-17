@@ -44,10 +44,10 @@ load_csv <- function(path = "../../data/raw/") {
     tidyr::fill(baseline_cpd) %>%
     group_by(subjectid, week) %>%
     mutate(
-      experimental_cpd = sum(study_mean, nonstudy_mean, na.rm = TRUE),
-      adherence = study_mean / experimental_cpd) %>%
+      total_cpd = sum(study_mean, nonstudy_mean, na.rm = TRUE),
+      adherence = study_mean / total_cpd) %>%
     ungroup() %>%
-    select(subjectid, week, baseline_cpd, experimental_cpd, adherence)
+    select(subjectid, week, baseline_cpd, total_cpd, study_mean, nonstudy_mean, adherence)
   
   ub <- produce_ub_dataset() %>% select(-c(is_100, menthol))
   

@@ -11,7 +11,7 @@ library(ggplot2)
 theme_set(theme_classic())
 
 # load data
-load("../data/clean/s2_data.RData")
+load("../../data/clean/s2_data.RData")
 ```
 
 
