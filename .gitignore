@@ -5,3 +5,4 @@ password.csv
 *.RData
 *.Rhistory
 *.DS_Store
+/__pycache__
