@@ -138,6 +138,19 @@ produce_ub_dataset <- function(path = "../../data/raw/") {
 }
 
 
+make_subsets <- function(df) {
+  df <- df %>%
+    relocate(c(total_cpd, study_mean, nonstudy_mean, adherence), .after = last_col()) %>%
+    select(screen_id, week, project, site, dose, screen_sex, everything())
+  
+  w12 <- df %>% filter(week == "week12")
+  
+  list(
+    "s2_full" = df,
+    "s2_w12" = w12
+  )
+}
+
 # main
 
 # make UB key
@@ -152,9 +165,15 @@ csv_joined <- load_csv()
 #   jhu_key = key$password[key$username == "rc_s2_jhu"]
 # )
 # save(rc_data, file = "../../data/raw/s2_rc_data.RData")
+
+
 load("../../data/raw/s2_rc_data.RData")
 
 df <- merge_trial_data(rc_data, csv_joined)
-save(df, file = "../../data/clean/s2_data.RData")
-write.csv(df, file = "../../data/clean/s2_data.csv", row.names = FALSE)
+
+subsets <- make_subsets(df)
+
+# save(df, file = "../../data/clean/s2_data.RData")
+write.csv(subsets$s2_full, file = "../../data/clean/s2_full.csv", row.names = FALSE)
+write.csv(subsets$s2_w12, file = "../../data/clean/s2_w12.csv", row.names = FALSE)
 

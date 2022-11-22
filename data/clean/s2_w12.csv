@@ -1,0 +1,628 @@
+"screen_id","week","project","site","dose","screen_sex","screen_age","menthol_status","baseline_cpd","usual_brand","strength","carmine","carmine_nicotine","total_cpd","study_mean","nonstudy_mean","adherence"
+"J-A001","week12","project 1","uvm","2.4","Female",29,"Non-Menthol",16.1428571428571,"Reservation Rollies Regular","regular",NA,NA,16.8571428571429,16.8571428571429,0,1
+"J-A003","week12","project 1","uvm","15.8","Female",32,"Non-Menthol",11.4285714285714,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,5.57142857142857,5.57142857142857,0,1
+"J-A004","week12","project 1","uvm","0.4","Female",38,"Non-Menthol",15.8571428571429,"Marlboro Gold Regular","light","Marlboro Gold King",15.9,11.5,9.83333333333333,1.66666666666667,0.855072463768116
+"J-A005","week12","project 1","uvm","2.4","Female",37,"Non-Menthol",13.1428571428571,"All Natural Native Regular","regular",NA,NA,12.2857142857143,12.2857142857143,0,1
+"J-A007","week12","project 1","uvm","15.8","Female",44,"Non-Menthol",27.8,"Marlboro Gold 100s","light","Marlboro Gold 100",16.2,27,27,0,1
+"J-A010","week12","project 1","uvm","15.8","Female",28,"Non-Menthol",19.1428571428571,"Marlboro Red Regular","regular","Marlboro Red King",15.8,17.1428571428571,17.1428571428571,0,1
+"J-A015","week12","project 1","uvm","15.8","Female",25,"Menthol",15.7142857142857,"Marlboro Menthol Regular","regular","Marlboro Green (Menthol) King",16.9,20.6666666666667,20.5,0.166666666666667,0.991935483870968
+"J-A016","week12","project 1","uvm","0.4","Female",38,"Non-Menthol",29,"Marlboro Red 72s","regular","Marlboro 72 Red",15.7,20,20,0,1
+"J-A017","week12","project 1","uvm","0.4","Female",27,"Menthol",7.71428571428571,"Marlboro Menthol 100s","regular","Marlboro Menthol 100",17.3,3.33333333333333,2.5,0.833333333333333,0.75
+"J-A018","week12","project 1","uvm","2.4","Female",42,"Menthol",7.71428571428571,"Marlboro Black Menthol 100s","bold","Marlboro Black Menthol 100",16.6,8,6,2,0.75
+"J-A023","week12","project 1","uvm","0.4","Female",43,"Non-Menthol",24.4285714285714,"Marlboro Red Regular","regular","Marlboro Red King",15.8,28.6666666666667,25.1666666666667,3.5,0.877906976744186
+"J-A024","week12","project 1","uvm","15.8","Female",41,"Non-Menthol",16.5714285714286,"Camel Blue Regular","light","Camel 99 Blue",17.3,18.5714285714286,18.1428571428571,0.428571428571429,0.976923076923077
+"J-A025","week12","project 1","uvm","15.8","Female",32,"Menthol",26.4285714285714,"Fortuna Menthol Regular","regular",NA,NA,31.4285714285714,31.4285714285714,0,1
+"J-A029","week12","project 1","uvm","15.8","Female",24,"Non-Menthol",12.4285714285714,"Reservation Wyatt Regular","regular",NA,NA,15.4285714285714,15.4285714285714,0,1
+"J-A031","week12","project 1","uvm","15.8","Female",27,"Menthol",19.2857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,19.5,19.5,0,1
+"J-A034","week12","project 1","uvm","0.4","Female",21,"Non-Menthol",11.8571428571429,"Marlboro Black 100s","bold",NA,NA,0.714285714285714,0,0.714285714285714,0
+"J-A035","week12","project 1","uvm","2.4","Female",33,"Non-Menthol",26,"Camel Gold Regular","light","Camel Turkish Blend Gold King",15.6,32.8571428571429,28.5714285714286,4.28571428571429,0.869565217391304
+"J-A045","week12","project 1","uvm","15.8","Female",40,"Non-Menthol",18.5714285714286,"Marlboro Red Regular","regular","Marlboro Red King",15.8,22.1666666666667,22.1666666666667,0,1
+"J-A048","week12","project 1","uvm","0.4","Female",36,"Non-Menthol",12,"Pall Mall Red Regular","regular","Pall Mall Red King",16,6,5.4,0.6,0.9
+"J-A049","week12","project 1","uvm","15.8","Female",23,"Menthol",22.8571428571429,"Fortuna Menthol 100s","regular",NA,NA,56.6666666666667,56.6666666666667,0,1
+"J-A050","week12","project 1","uvm","15.8","Female",22,"Non-Menthol",5.57142857142857,"Marlboro Southern Cuts Regular","regular","Marlboro Southern Cut King",16.4,5.83333333333333,2.33333333333333,3.5,0.4
+"J-A051","week12","project 1","uvm","15.8","Female",29,"Non-Menthol",10.8571428571429,"Camel Blue Regular","light","Camel 99 Blue",17.3,17.5714285714286,17.5714285714286,0,1
+"J-A052","week12","project 1","uvm","15.8","Female",34,"Non-Menthol",20,"Marlboro Gold Special Select 100s","light","Marlboro Special Blend Gold 100",17,35.4285714285714,35.4285714285714,0,1
+"J-A055","week12","project 1","uvm","0.4","Female",20,"Menthol",11.6,"Marlboro Gold Menthol 100s","light","Marlboro Menthol Gold 100",17.4,11.7142857142857,11.7142857142857,0,1
+"J-A056","week12","project 1","uvm","2.4","Female",22,"Non-Menthol",23.1666666666667,"Marlboro Red Regular","regular","Marlboro Red King",15.8,22,21.3333333333333,0.666666666666667,0.96969696969697
+"J-A057","week12","project 1","uvm","0.4","Female",36,"Non-Menthol",19.1428571428571,"Reservation Rollies 100s","regular",NA,NA,21.5714285714286,20.8571428571429,0.714285714285714,0.966887417218543
+"J-A059","week12","project 1","uvm","0.4","Female",31,"Non-Menthol",11.4285714285714,"Camel Filter Regular","regular","Camel 99 Blue",17.3,4.42857142857143,4.28571428571429,0.142857142857143,0.967741935483871
+"J-A061","week12","project 1","uvm","2.4","Female",26,"Non-Menthol",15.8571428571429,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,22,21.8571428571429,0.142857142857143,0.993506493506494
+"J-A062","week12","project 1","uvm","0.4","Female",36,"Non-Menthol",10.5714285714286,"Parliament 100s","regular",NA,NA,7.57142857142857,7.42857142857143,0.142857142857143,0.981132075471698
+"J-A063","week12","project 1","uvm","15.8","Female",30,"Non-Menthol",5.42857142857143,"American Spirit Yellow Regular","light","Natural American Spirit Yellow Mellow King",22.6,5.57142857142857,5.57142857142857,0,1
+"J-A067","week12","project 1","uvm","15.8","Female",25,"Non-Menthol",31,"Newport Red Regular","regular","Newport Non-Menthol King",18.3,35,35,0,1
+"J-A068","week12","project 1","uvm","0.4","Female",24,"Non-Menthol",22.6666666666667,"Reservation Crown Full Flavor King","regular",NA,NA,26.5714285714286,26.1428571428571,0.428571428571429,0.983870967741935
+"J-A071","week12","project 1","uvm","2.4","Female",23,"Non-Menthol",17.5714285714286,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,16.8,15.8,1,0.94047619047619
+"J-A072","week12","project 1","uvm","0.4","Female",24,"Menthol",8.71428571428571,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,5.4,5.4,0,1
+"J-A073","week12","project 1","uvm","2.4","Female",19,"Non-Menthol",7.14285714285714,"Pall Mall Red 100s","regular","Pall Mall Red 100",16.1,1,1,0,1
+"J-A074","week12","project 1","uvm","0.4","Female",32,"Non-Menthol",8,"Camel Blue Regular","light","Camel 99 Blue",17.3,3.28571428571429,0,3.28571428571429,0
+"J-A078","week12","project 1","uvm","15.8","Female",24,"Non-Menthol",22.5714285714286,"Reservation Crown Full Flavor King","regular",NA,NA,26.7142857142857,26.7142857142857,0,1
+"J-A080","week12","project 1","uvm","0.4","Female",34,"Non-Menthol",16.4285714285714,"Marlboro Silver Regular","ultra light","Marlboro Silver King",17.3,0,0,0,NA
+"J-A086","week12","project 1","uvm","0.4","Female",36,"Non-Menthol",23.5714285714286,"Marlboro Black Regular","bold",NA,NA,20,20,0,1
+"J-A087","week12","project 1","uvm","0.4","Female",37,"Non-Menthol",21.8571428571429,"Marlboro Gold Regular","light","Marlboro Gold King",15.9,34.1666666666667,34,0.166666666666667,0.995121951219512
+"J-A089","week12","project 1","uvm","15.8","Female",40,"Non-Menthol",13,"American Spirit Blue Regular","regular","Natural American Spirit Blue King",21.9,21.4285714285714,21.4285714285714,0,1
+"J-A090","week12","project 1","uvm","15.8","Female",39,"Non-Menthol",18.1428571428571,"Marlboro Red Regular","regular","Marlboro Red King",15.8,22.8571428571429,16.5714285714286,6.28571428571429,0.725
+"J-A091","week12","project 1","uvm","2.4","Female",22,"Menthol",13,"Marlboro Smooth 100s","regular","Marlboro Smooth Menthol 100",17.7,1.85714285714286,1.85714285714286,0,1
+"J-A092","week12","project 1","uvm","2.4","Female",33,"Non-Menthol",14.8571428571429,"Camel Filter Regular","regular","Camel 99 Blue",17.3,17.6666666666667,15.8333333333333,1.83333333333333,0.89622641509434
+"J-A095","week12","project 1","uvm","0.4","Female",22,"Non-Menthol",14.7142857142857,"Marlboro Red Regular","regular","Marlboro Red King",15.8,0,0,0,NA
+"J-A096","week12","project 1","uvm","0.4","Female",29,"Non-Menthol",11.6666666666667,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,2.85714285714286,2.42857142857143,0.428571428571429,0.85
+"J-A097","week12","project 1","uvm","0.4","Female",39,"Non-Menthol",45,"Marlboro Red Regular","regular","Marlboro Red King",15.8,47,45,2,0.957446808510638
+"J-A098","week12","project 1","uvm","0.4","Female",41,"Menthol",14.1428571428571,"Marlboro Gold Menthol Regular","light","Marlboro Menthol Gold King",16.6,0.666666666666667,0,0.666666666666667,0
+"J-A101","week12","project 1","uvm","2.4","Female",36,"Non-Menthol",28.3333333333333,"Seneca Medium 100s","regular",NA,NA,32.2857142857143,32.2857142857143,0,1
+"J-A102","week12","project 1","uvm","0.4","Female",23,"Menthol",13,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,10,10,0,1
+"J-A103","week12","project 1","uvm","0.4","Female",32,"Non-Menthol",8.42857142857143,"Marlboro Red Regular","regular","Marlboro Red King",15.8,6.85714285714286,6.85714285714286,0,1
+"J-A108","week12","project 1","uvm","0.4","Female",34,"Non-Menthol",32.1428571428571,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,28.6,27,1.6,0.944055944055944
+"J-A109","week12","project 1","uvm","0.4","Female",33,"Non-Menthol",10.1428571428571,"Camel Blue Regular","light","Camel 99 Blue",17.3,12.7142857142857,12.7142857142857,0,1
+"J-A111","week12","project 1","uvm","15.8","Female",28,"Non-Menthol",19.7142857142857,"Marlboro Red Regular","regular","Marlboro Red King",15.8,20,20,0,1
+"J-A113","week12","project 1","uvm","0.4","Female",35,"Non-Menthol",8,"Marlboro Gold Regular","light","Marlboro Gold King",15.9,0,0,0,NA
+"J-A115","week12","project 1","uvm","0.4","Female",26,"Non-Menthol",15.7142857142857,"All Natural Native Regular","regular",NA,NA,6.83333333333333,6.83333333333333,0,1
+"J-A123","week12","project 1","uvm","0.4","Female",21,"Non-Menthol",9.85714285714286,"L&M Red Regular","regular","L&M Full Flavor King",13.5,8.71428571428571,8.57142857142857,0.142857142857143,0.983606557377049
+"J-A127","week12","project 1","uvm","15.8","Female",22,"Menthol",20.5,"Marlboro NXT Regular","regular","Marlboro Nxt King",16.3,37.1428571428571,37.1428571428571,0,1
+"J-A130","week12","project 1","uvm","0.4","Female",31,"Non-Menthol",8.28571428571429,"Marlboro Red Regular","regular","Marlboro Red King",15.8,6.57142857142857,6.57142857142857,0,1
+"J-A131","week12","project 1","uvm","15.8","Female",19,"Non-Menthol",21,"1839 Full Flavor 100s","regular",NA,NA,25.1428571428571,24,1.14285714285714,0.954545454545455
+"J-A133","week12","project 1","uvm","0.4","Female",34,"Non-Menthol",22.8571428571429,"Marlboro Black Regular","bold",NA,NA,32.25,31.25,1,0.968992248062015
+"J-A134","week12","project 1","uvm","0.4","Female",26,"Non-Menthol",20.2857142857143,"Marlboro Gold 100s","light","Marlboro Gold 100",16.2,16,15,1,0.9375
+"J-A135","week12","project 1","uvm","15.8","Female",32,"Non-Menthol",48.4285714285714,"Reservation Rollies Regular","regular",NA,NA,45.5714285714286,45.5714285714286,0,1
+"J-A138","week12","project 1","uvm","2.4","Female",28,"Menthol",18.8571428571429,"USA Gold Menthol 100s","light",NA,NA,11.3333333333333,11.3333333333333,0,1
+"J-A140","week12","project 1","uvm","2.4","Female",35,"Non-Menthol",28.5714285714286,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,40,40,0,1
+"J-A141","week12","project 1","uvm","0.4","Female",35,"Non-Menthol",10,"Marlboro Black 100s","bold",NA,NA,7.5,7.5,0,1
+"J-A142","week12","project 1","uvm","15.8","Female",22,"Non-Menthol",10.2857142857143,"L&M Red 100s","regular","L&M 100",13.2,8.33333333333333,8.33333333333333,0,1
+"J-A143","week12","project 1","uvm","0.4","Female",25,"Menthol",18.1428571428571,"Camel Crush Regular","regular","Camel Crush King",17.2,7,7,0,1
+"J-A144","week12","project 1","uvm","0.4","Female",23,"Non-Menthol",23,"Reservation Rollies Regular","regular",NA,NA,19,18.8,0.2,0.989473684210526
+"J-A146","week12","project 1","uvm","0.4","Female",42,"Non-Menthol",11.2857142857143,"American Spirit Yellow Regular","light","Natural American Spirit Yellow Mellow King",22.6,14.5,14,0.5,0.96551724137931
+"J-A147","week12","project 1","uvm","0.4","Female",25,"Non-Menthol",11.8571428571429,"Reservation Rollies Regular","regular",NA,NA,7.4,4.6,2.8,0.621621621621622
+"J-A148","week12","project 1","uvm","0.4","Female",43,"Menthol",20.7142857142857,"Marlboro Gold Menthol 100s","light","Marlboro Menthol Gold 100",17.4,25.4285714285714,25.4285714285714,0,1
+"J-A153","week12","project 1","uvm","0.4","Female",18,"Non-Menthol",6.42857142857143,"Eagle 20s 100s","regular","Eagle 20'S Red 100",17.3,2.66666666666667,0,2.66666666666667,0
+"J-A163","week12","project 1","uvm","0.4","Female",35,"Non-Menthol",19.4285714285714,"Reservation Wyatt Regular","regular",NA,NA,15.5,15,0.5,0.967741935483871
+"J-A165","week12","project 1","uvm","0.4","Female",42,"Menthol",18.5714285714286,"Reservation Wyatt Menthol 100s","regular",NA,NA,28.4285714285714,28.4285714285714,0,1
+"J-A167","week12","project 1","uvm","0.4","Female",20,"Non-Menthol",14.1428571428571,"Marlboro Black 100s","bold",NA,NA,12.75,8.75,4,0.686274509803922
+"J-A168","week12","project 1","uvm","0.4","Female",25,"Non-Menthol",25,"Marlboro Red Regular","regular","Marlboro Red King",15.8,6,4,2,0.666666666666667
+"J-A169","week12","project 1","uvm","0.4","Female",20,"Menthol",9.14285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,8.2,8,0.2,0.975609756097561
+"J-A172","week12","project 1","uvm","0.4","Female",25,"Non-Menthol",12.8571428571429,"American Spirit Turquoise Regular","regular","Natural American Spirit Organic Turquoise King",28.9,5.5,0.5,5,0.0909090909090909
+"J-A173","week12","project 1","uvm","0.4","Female",36,"Non-Menthol",39.5714285714286,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,27.5,26.8333333333333,0.666666666666667,0.975757575757576
+"J-A174","week12","project 1","uvm","0.4","Female",32,"Non-Menthol",18,"Reservation Wyatt Light 100s","light",NA,NA,0,0,0,NA
+"J-A175","week12","project 1","uvm","2.4","Female",41,"Non-Menthol",32.4285714285714,"Reservation Rollies Regular","regular",NA,NA,33.25,27.75,5.5,0.834586466165414
+"J-A176","week12","project 1","uvm","2.4","Female",44,"Menthol",19.2857142857143,"Shield Silver Menthol 100s","light",NA,NA,20,20,0,1
+"J-A177","week12","project 1","uvm","2.4","Female",29,"Menthol",8.5,"Marlboro Smooth Menthol 100s","regular","Marlboro Smooth Menthol 100",17.7,1.85714285714286,1.85714285714286,0,1
+"J-A179","week12","project 1","uvm","15.8","Female",39,"Non-Menthol",30.5714285714286,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,44.1428571428571,44.1428571428571,0,1
+"J-A182","week12","project 1","uvm","2.4","Female",26,"Non-Menthol",20,"Marlboro Red Regular","regular","Marlboro Red King",15.8,14.4,8.4,6,0.583333333333333
+"J-A185","week12","project 1","uvm","15.8","Female",41,"Non-Menthol",15,"Marlboro Black 100s","bold",NA,NA,18.3333333333333,18.3333333333333,0,1
+"J-A188","week12","project 1","uvm","15.8","Female",37,"Non-Menthol",29.1428571428571,"Marlboro Red Special Select 100s","regular","Marlboro Special Blend Red 100",16.4,57,55.25,1.75,0.969298245614035
+"J-A189","week12","project 1","uvm","2.4","Female",18,"Non-Menthol",11,"Marlboro Red Regular","regular","Marlboro Red King",15.8,3,2,1,0.666666666666667
+"J-A196","week12","project 1","uvm","2.4","Female",27,"Non-Menthol",12,"Marlboro Gold 100s","light","Marlboro Gold 100",16.2,6.33333333333333,5,1.33333333333333,0.789473684210526
+"J-A197","week12","project 1","uvm","15.8","Female",26,"Non-Menthol",27,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,30,29,1,0.966666666666667
+"J-A201","week12","project 1","uvm","2.4","Female",22,"Non-Menthol",17.2857142857143,"Reservation Rollies Regular","regular",NA,NA,15.4285714285714,15.2857142857143,0.142857142857143,0.990740740740741
+"J-A202","week12","project 1","uvm","15.8","Female",21,"Menthol",20,"Marlboro Smooth Menthol Regular","regular","Marlboro Smooth Menthol King",17.4,44.4,44,0.4,0.990990990990991
+"J-A203","week12","project 1","uvm","2.4","Female",32,"Non-Menthol",7.14285714285714,"Marlboro Red Regular","regular","Marlboro Red King",15.8,6,6,0,1
+"J-A205","week12","project 1","uvm","15.8","Female",35,"Non-Menthol",15.5714285714286,"Fortuna Red 100s","regular",NA,NA,8.33333333333333,5.16666666666667,3.16666666666667,0.62
+"J-A208","week12","project 1","uvm","15.8","Female",38,"Non-Menthol",20.5714285714286,"Marlboro Red Label Regular","regular","Marlboro Red Label King",16.4,39.7142857142857,39.7142857142857,0,1
+"J-A209","week12","project 1","uvm","2.4","Female",26,"Menthol",16.8571428571429,"Reservation Crown Menthol King","regular",NA,NA,21.3333333333333,21.1666666666667,0.166666666666667,0.9921875
+"J-A210","week12","project 1","uvm","15.8","Female",31,"Non-Menthol",9.42857142857143,"L&M Red Regular","regular","L&M Full Flavor King",13.5,7,7,0,1
+"J-A211","week12","project 1","uvm","15.8","Female",25,"Menthol",24,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,27.5714285714286,27.1428571428571,0.428571428571429,0.984455958549223
+"J-A214","week12","project 1","uvm","0.4","Female",26,"Menthol",20.8571428571429,"Marlboro Smooth Menthol Regular","regular","Marlboro Smooth Menthol King",17.4,9,9,0,1
+"J-A217","week12","project 1","uvm","0.4","Female",26,"Menthol",11.1428571428571,"Camel Crush Menthol Regular","regular","Camel Crush Menthol King",17.5,4.5,4.5,0,1
+"J-A219","week12","project 1","uvm","15.8","Female",31,"Non-Menthol",27.8571428571429,"Marlboro Red Regular","regular","Marlboro Red King",15.8,46.5714285714286,43.8571428571428,2.71428571428571,0.941717791411043
+"J-A221","week12","project 1","uvm","2.4","Female",23,"Non-Menthol",6.71428571428571,"Pyramid Blue 100s","light","Pyramid Blue 100",15.8,5.66666666666667,5.66666666666667,0,1
+"J-A222","week12","project 1","uvm","15.8","Female",40,"Non-Menthol",22.2857142857143,"Marlboro Black 100s","bold",NA,NA,23.2,22.4,0.8,0.96551724137931
+"J-A223","week12","project 1","uvm","15.8","Female",24,"Non-Menthol",16.5714285714286,"Marlboro Red Regular","regular","Marlboro Red King",15.8,16.4285714285714,15.8571428571429,0.571428571428571,0.965217391304348
+"J-A224","week12","project 1","uvm","0.4","Female",33,"Menthol",23.2857142857143,"L&M Menthol 100s","regular","L&M 100 Menthol",17.5,20,20,0,1
+"J-A226","week12","project 1","uvm","2.4","Female",26,"Menthol",16.4285714285714,"Marlboro Menthol 100s","regular","Marlboro Menthol 100",17.3,15.8333333333333,15.5,0.333333333333333,0.978947368421053
+"J-A228","week12","project 1","uvm","2.4","Female",40,"Non-Menthol",19.2857142857143,"Pall Mall Blue Nanoking","light",NA,NA,17,14.75,2.25,0.86764705882353
+"J-A229","week12","project 1","uvm","15.8","Female",22,"Non-Menthol",16.1428571428571,"Marlboro Red Regular","regular","Marlboro Red King",15.8,18,18,0,1
+"J-A232","week12","project 1","uvm","15.8","Female",25,"Menthol",15.6,"Marlboro Ice Menthol Regular","regular",NA,NA,25.4285714285714,25.4285714285714,0,1
+"J-A233","week12","project 1","uvm","0.4","Female",36,"Menthol",23.2857142857143,"1st Class Green Menthol 100s","regular",NA,NA,19.2857142857143,10,9.28571428571429,0.518518518518519
+"J-A235","week12","project 1","uvm","2.4","Female",31,"Menthol",20.4285714285714,"Marlboro Menthol 100s","regular","Marlboro Menthol 100",17.3,9.57142857142857,9.57142857142857,0,1
+"J-A236","week12","project 1","uvm","15.8","Female",40,"Non-Menthol",33.7142857142857,"Reservation Rollies Regular","regular",NA,NA,20,20,0,1
+"J-A240","week12","project 1","uvm","2.4","Female",24,"Non-Menthol",10.8571428571429,"American Spirit Black Regular","bold",NA,NA,6.57142857142857,6.57142857142857,0,1
+"J-A241","week12","project 1","uvm","15.8","Female",33,"Menthol",29,"Reservation Rollies Menthol 100s","regular",NA,NA,33.1428571428571,33.1428571428571,0,1
+"J-A243","week12","project 1","uvm","2.4","Female",29,"Menthol",17.2857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,22.5,22.5,0,1
+"J-A245","week12","project 1","uvm","15.8","Female",34,"Non-Menthol",19.7142857142857,"Marlboro Red Special Select 100s","regular","Marlboro Special Blend Red 100",16.4,37.5,37.5,0,1
+"J-A247","week12","project 1","uvm","2.4","Female",32,"Non-Menthol",10.4285714285714,"American Spirit Gold Regular","light","Natural American Spirit Organic Mellow Gold King",29.3,7.71428571428571,7.71428571428571,0,1
+"J-A249","week12","project 1","uvm","15.8","Female",28,"Menthol",18.4285714285714,"Camel Crush Silver Menthol Regular","light","Camel Crush Menthol Silver King",17,22.1666666666667,21.8333333333333,0.333333333333333,0.984962406015038
+"J-A250","week12","project 1","uvm","2.4","Female",25,"Non-Menthol",20.5714285714286,"Marlboro Black 100s","bold",NA,NA,39.8333333333333,39.8333333333333,0,1
+"J-A251","week12","project 1","uvm","15.8","Female",25,"Non-Menthol",7.71428571428571,"Marlboro Gold Regular","light","Marlboro Gold King",15.9,10.1428571428571,10.1428571428571,0,1
+"J-A253","week12","project 1","uvm","15.8","Female",34,"Non-Menthol",25,"Reservation Rollies Regular","regular",NA,NA,30,30,0,1
+"J-A257","week12","project 1","uvm","15.8","Female",29,"Non-Menthol",19,"Camel Filter Regular","regular","Camel 99 Blue",17.3,22,21.8571428571429,0.142857142857143,0.993506493506494
+"J-A259","week12","project 1","uvm","15.8","Female",25,"Menthol",9.28571428571429,"Camel Crush Regular","regular","Camel Crush King",17.2,9.4,9.4,0,1
+"J-A261","week12","project 1","uvm","0.4","Female",44,"Menthol",9.57142857142857,"Camel Crush Silver Menthol Regular","regular","Camel Crush Menthol Silver King",17,0.5,0.5,0,1
+"J-A263","week12","project 1","uvm","0.4","Female",43,"Menthol",9.57142857142857,"Marlboro Smooth Menthol 100s","regular","Marlboro Smooth Menthol 100",17.7,5.14285714285714,5.14285714285714,0,1
+"J-A264","week12","project 1","uvm","15.8","Female",23,"Non-Menthol",9.42857142857143,"L&M Red Regular","regular","L&M Full Flavor King",13.5,5.8,5.8,0,1
+"J-A274","week12","project 1","uvm","2.4","Female",24,"Menthol",8,"Reservation Wyatt Light Menthol Regular","light",NA,NA,1.28571428571429,1.28571428571429,0,1
+"J-A279","week12","project 1","uvm","2.4","Female",24,"Non-Menthol",14.4285714285714,"Marlboro Black Regular","bold",NA,NA,19,17.5714285714286,1.42857142857143,0.924812030075188
+"J-A280","week12","project 1","uvm","15.8","Female",27,"Non-Menthol",19.2857142857143,"Marlboro Gold Special Select Regular","light","Marlboro Special Blend Gold King",15.9,25,25,0,1
+"J-A286","week12","project 1","uvm","15.8","Female",28,"Menthol",32.5714285714286,"American Blend Menthol 100s","regular",NA,NA,57.7142857142857,57.7142857142857,0,1
+"J-A287","week12","project 1","uvm","2.4","Female",33,"Menthol",8.28571428571429,"American Spirit Green Menthol Regular","regular","Natural American Spirit Menthol Green King",24.3,33.4285714285714,33.4285714285714,0,1
+"J-A289","week12","project 1","uvm","2.4","Female",30,"Non-Menthol",19,"Marlboro Red Special Select Regular","regular","Marlboro Special Blend Red King",16.3,17,17,0,1
+"J-A291","week12","project 1","uvm","2.4","Female",21,"Non-Menthol",14.1428571428571,"American Spirit Blue Regular","regular","Natural American Spirit Blue King",21.9,12.6666666666667,1.5,11.1666666666667,0.118421052631579
+"J-A296","week12","project 1","uvm","2.4","Female",42,"Non-Menthol",10,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,2,2,0,1
+"J-A298","week12","project 1","uvm","0.4","Female",18,"Menthol",10.5714285714286,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,12.5,12.5,0,1
+"J-A301","week12","project 1","uvm","2.4","Female",33,"Non-Menthol",11,"Marlboro Black Regular","bold",NA,NA,11,2,9,0.181818181818182
+"K-A004","week12","project 2","uvm","0.4","Female",30,"Non-Menthol",57.1428571428571,"1839 Full Flavor 100s","regular",NA,NA,4.42857142857143,4.42857142857143,0,1
+"K-A005","week12","project 2","uvm","2.4","Male",33,"Non-Menthol",20.1428571428571,"Marlboro Red 72s","regular","Marlboro 72 Red",15.7,21.5,16.5,5,0.767441860465116
+"K-A006","week12","project 2","uvm","15.8","Male",32,"Non-Menthol",28.8571428571429,"Marlboro 83s","regular","Marlboro 83",16.4,82.8333333333333,82.8333333333333,0,1
+"K-A008","week12","project 2","uvm","0.4","Female",40,"Non-Menthol",25.1428571428571,"Camel Wide Regular","regular","Camel Wides Red King",17.7,19.8571428571429,19.8571428571429,0,1
+"K-A009","week12","project 2","uvm","0.4","Female",47,"Non-Menthol",48.5714285714286,"Camel Filter Regular","regular","Camel 99 Blue",17.3,40.6,40,0.6,0.985221674876847
+"K-A011","week12","project 2","uvm","2.4","Male",36,"Non-Menthol",30,"Marlboro Red Regular","regular","Marlboro Red King",15.8,10,10,0,1
+"K-A013","week12","project 2","uvm","0.4","Male",59,"Non-Menthol",14.2857142857143,"Pall Mall Red Regular","regular","Pall Mall Red King",16,20.25,16.25,4,0.802469135802469
+"K-A014","week12","project 2","uvm","0.4","Female",29,"Non-Menthol",29.1428571428571,"Marlboro Red Special Select Regular","regular","Marlboro Special Blend Red King",16.3,40.1666666666667,28,12.1666666666667,0.697095435684647
+"K-A015","week12","project 2","uvm","0.4","Male",41,"Non-Menthol",37.1428571428571,"Marlboro Red Regular","regular","Marlboro Red King",15.8,51.1428571428571,48.5714285714286,2.57142857142857,0.949720670391061
+"K-A016","week12","project 2","uvm","2.4","Female",33,"Non-Menthol",20,"Parliament White Regular","light","Parliament White King",16.8,16.5714285714286,8.42857142857143,8.14285714285714,0.508620689655172
+"K-A017","week12","project 2","uvm","2.4","Male",32,"Non-Menthol",16.5714285714286,"Marlboro Gold Regular","light","Marlboro Gold King",15.9,38,33.7142857142857,4.28571428571429,0.887218045112782
+"K-A018","week12","project 2","uvm","15.8","Female",33,"Non-Menthol",46.2857142857143,"Camel Wide Regular","regular","Camel Wides Red King",17.7,49.2857142857143,49.2857142857143,0,1
+"K-A020","week12","project 2","uvm","15.8","Female",33,"Non-Menthol",14.1428571428571,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,13.6666666666667,13.1666666666667,0.5,0.963414634146341
+"K-A021","week12","project 2","uvm","2.4","Male",30,"Non-Menthol",24.8571428571429,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,14.5714285714286,13.8571428571429,0.714285714285714,0.950980392156863
+"K-A022","week12","project 2","uvm","15.8","Female",35,"Non-Menthol",15.7142857142857,"Newport Red Regular","regular","Newport Non-Menthol King",18.3,12.6666666666667,12.6666666666667,0,1
+"K-A023","week12","project 2","uvm","0.4","Female",32,"Non-Menthol",21.4285714285714,"Marlboro Red Special Select Regular","regular","Marlboro Special Blend Red King",16.3,30,30,0,1
+"K-A024","week12","project 2","uvm","2.4","Female",39,"Non-Menthol",10.7142857142857,"Camel 99s","regular","Camel 99 Blue",17.3,5,5,0,1
+"K-A025","week12","project 2","uvm","2.4","Male",42,"Non-Menthol",14.8571428571429,"Lucky Strike Non-Filter Regular","regular",NA,NA,25.8571428571429,24.5714285714286,1.28571428571429,0.950276243093923
+"K-A027","week12","project 2","uvm","15.8","Female",36,"Non-Menthol",17.8571428571429,"Camel 99s","regular","Camel 99 Blue",17.3,39.25,39.25,0,1
+"K-A029","week12","project 2","uvm","2.4","Female",49,"Non-Menthol",40,"Marlboro Red Label 100s","regular","Marlboro Red Label 100",16.5,49.2857142857143,49.2857142857143,0,1
+"K-A030","week12","project 2","uvm","2.4","Male",24,"Non-Menthol",32.7142857142857,"Marlboro Black Regular","bold",NA,NA,42.7142857142857,42.7142857142857,0,1
+"K-A035","week12","project 2","uvm","0.4","Male",45,"Non-Menthol",42.2857142857143,"Marlboro Red Regular","regular","Marlboro Red King",15.8,51.6666666666667,51.6666666666667,0,1
+"K-A036","week12","project 2","uvm","15.8","Male",58,"Menthol",60,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,60,60,0,1
+"K-A037","week12","project 2","uvm","0.4","Male",37,"Non-Menthol",20,"Marlboro Red Regular","regular","Marlboro Red King",15.8,20,20,0,1
+"K-A043","week12","project 2","uvm","15.8","Male",42,"Non-Menthol",43.2857142857143,"Marlboro Red Regular","regular","Marlboro Red King",15.8,65,65,0,1
+"K-A045","week12","project 2","uvm","15.8","Female",37,"Non-Menthol",21.7142857142857,"Marlboro Red Regular","regular","Marlboro Red King",15.8,30,25,5,0.833333333333333
+"K-A048","week12","project 2","uvm","2.4","Female",38,"Non-Menthol",19.1428571428571,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,42.25,36.25,6,0.857988165680473
+"K-A049","week12","project 2","uvm","0.4","Female",28,"Non-Menthol",22.5714285714286,"Marlboro Red Label Regular","regular","Marlboro Red Label King",16.4,33.75,32.5,1.25,0.962962962962963
+"K-A050","week12","project 2","uvm","2.4","Male",27,"Non-Menthol",15.1428571428571,"Marlboro Red Regular","regular","Marlboro Red King",15.8,11.8,11.8,0,1
+"K-A051","week12","project 2","uvm","2.4","Male",62,"Non-Menthol",28.1428571428571,"Marlboro Black Regular","bold",NA,NA,31.8571428571429,20.8571428571429,11,0.654708520179372
+"K-A054","week12","project 2","uvm","2.4","Female",33,"Non-Menthol",14.4285714285714,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,15.3333333333333,15.3333333333333,0,1
+"K-A055","week12","project 2","uvm","15.8","Male",49,"Non-Menthol",1,"Marlboro Black Regular","bold",NA,NA,11.3333333333333,11.3333333333333,0,1
+"K-A058","week12","project 2","uvm","15.8","Female",41,"Non-Menthol",23.5714285714286,"Marlboro Red Regular","regular","Marlboro Red King",15.8,29.8333333333333,27.1666666666667,2.66666666666667,0.910614525139665
+"K-A059","week12","project 2","uvm","0.4","Female",25,"Non-Menthol",13,"Camel Wide Regular","regular","Camel Wides Red King",17.7,13.5714285714286,12.5714285714286,1,0.926315789473684
+"K-A060","week12","project 2","uvm","0.4","Female",27,"Menthol",21,"Marlboro Menthol Regular","regular","Marlboro Green (Menthol) King",16.9,19.4,16.6,2.8,0.855670103092783
+"K-A065","week12","project 2","uvm","2.4","Female",38,"Non-Menthol",33.7142857142857,"Marlboro Black 100s","bold",NA,NA,60.4285714285714,60.4285714285714,0,1
+"K-A066","week12","project 2","uvm","15.8","Female",31,"Non-Menthol",21.1428571428571,"Marlboro Red Label 100s","regular","Marlboro Red Label 100",16.5,37.8571428571429,37.4285714285714,0.428571428571429,0.988679245283019
+"K-A067","week12","project 2","uvm","0.4","Female",47,"Menthol",35.5714285714286,"Marlboro Menthol 100s","regular","Marlboro Menthol 100",17.3,14.3333333333333,7.66666666666667,6.66666666666667,0.534883720930233
+"K-A069","week12","project 2","uvm","15.8","Male",37,"Non-Menthol",30.7142857142857,"Marlboro Red Regular","regular","Marlboro Red King",15.8,34.1666666666667,33.6666666666667,0.5,0.985365853658537
+"K-A070","week12","project 2","uvm","0.4","Female",24,"Non-Menthol",20,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,12,11.6,0.4,0.966666666666667
+"K-A071","week12","project 2","uvm","0.4","Male",39,"Non-Menthol",23,"Newport Red Regular","regular","Newport Non-Menthol King",18.3,23.2,23.2,0,1
+"K-A072","week12","project 2","uvm","2.4","Female",37,"Non-Menthol",23,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,18,18,0,1
+"K-A075","week12","project 2","uvm","0.4","Male",32,"Non-Menthol",26.4285714285714,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,15.4285714285714,14.1428571428571,1.28571428571429,0.916666666666667
+"K-A076","week12","project 2","uvm","0.4","Male",49,"Non-Menthol",27.8571428571429,"Marlboro Red Regular","regular","Marlboro Red King",15.8,27.4285714285714,23.4285714285714,4,0.854166666666667
+"K-A079","week12","project 2","uvm","0.4","Male",41,"Non-Menthol",7.33333333333333,"Marlboro Red Regular","regular","Marlboro Red King",15.8,5.71428571428571,5.71428571428571,0,1
+"K-A080","week12","project 2","uvm","15.8","Female",32,"Non-Menthol",18.1428571428571,"Marlboro Red Special Select 100s","regular","Marlboro Special Blend Red 100",16.4,42,41,1,0.976190476190476
+"K-A081","week12","project 2","uvm","0.4","Male",33,"Non-Menthol",22.8571428571429,"Camel Filter Regular","regular","Camel 99 Blue",17.3,10.2857142857143,6.85714285714286,3.42857142857143,0.666666666666667
+"K-A082","week12","project 2","uvm","0.4","Female",44,"Non-Menthol",20,"Marlboro Red 72s","regular","Marlboro 72 Red",15.7,9.5,5,4.5,0.526315789473684
+"K-A086","week12","project 2","uvm","2.4","Female",36,"Menthol",20.7142857142857,"Marlboro Black Menthol Regular","bold","Marlboro Black Menthol King",16.2,7,6.83333333333333,0.166666666666667,0.976190476190476
+"K-A091","week12","project 2","uvm","15.8","Female",26,"Non-Menthol",21.25,"Marlboro Red Regular","regular","Marlboro Red King",15.8,15.3333333333333,13,2.33333333333333,0.847826086956522
+"K-A092","week12","project 2","uvm","0.4","Female",29,"Menthol",24.4285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,30,30,0,1
+"K-A098","week12","project 2","uvm","0.4","Female",32,"Non-Menthol",19.4285714285714,"Signal Full Flavor Regular","regular",NA,NA,26.5714285714286,21.7142857142857,4.85714285714286,0.817204301075269
+"K-A100","week12","project 2","uvm","2.4","Male",25,"Non-Menthol",38.5714285714286,"Marlboro Red Regular","regular","Marlboro Red King",15.8,0.25,0,0.25,0
+"K-A101","week12","project 2","uvm","0.4","Male",35,"Non-Menthol",18.2857142857143,"Marlboro Gold Regular","light","Marlboro Gold King",15.9,12,12,0,1
+"K-A102","week12","project 2","uvm","0.4","Male",25,"Non-Menthol",42.2857142857143,"Marlboro Red Regular","regular","Marlboro Red King",15.8,31,23.75,7.25,0.766129032258065
+"K-A103","week12","project 2","uvm","15.8","Female",47,"Non-Menthol",30,"Pall Mall Red 100s","regular","Pall Mall Red 100",16.1,35.1428571428571,35,0.142857142857143,0.995934959349593
+"K-A104","week12","project 2","uvm","15.8","Male",36,"Non-Menthol",9.28571428571429,"Camel Blue Regular","light","Camel 99 Blue",17.3,11.4285714285714,11.4285714285714,0,1
+"K-A106","week12","project 2","uvm","0.4","Male",38,"Non-Menthol",21,"Camel Filter Regular","regular","Camel 99 Blue",17.3,24.1428571428571,24.1428571428571,0,1
+"K-A107","week12","project 2","uvm","2.4","Male",31,"Non-Menthol",30.1428571428571,"roll your own OHM","",NA,NA,26.5,16.8333333333333,9.66666666666667,0.635220125786163
+"K-A108","week12","project 2","uvm","0.4","Female",49,"Non-Menthol",35.3333333333333,"Camel Wide Regular","regular","Camel Wides Red King",17.7,42.8333333333333,17.6666666666667,25.1666666666667,0.412451361867704
+"K-A109","week12","project 2","uvm","0.4","Female",35,"Menthol",40.7142857142857,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,26.7142857142857,26.7142857142857,0,1
+"K-A110","week12","project 2","uvm","15.8","Female",33,"Menthol",27.1428571428571,"Sonoma Menthol Regular","regular",NA,NA,34.2,34.2,0,1
+"K-A113","week12","project 2","uvm","0.4","Female",32,"Menthol",42.8571428571428,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,52.1428571428571,51.4285714285714,0.714285714285714,0.986301369863014
+"K-A114","week12","project 2","uvm","0.4","Female",28,"Non-Menthol",22.7142857142857,"Camel Blue Regular","light","Camel 99 Blue",17.3,19.25,19.25,0,1
+"K-A116","week12","project 2","uvm","0.4","Female",38,"Non-Menthol",14.4285714285714,"Marlboro Black Regular","bold",NA,NA,14.5714285714286,14,0.571428571428571,0.96078431372549
+"K-A117","week12","project 2","uvm","15.8","Female",52,"Non-Menthol",22.7142857142857,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,61.2857142857143,61,0.285714285714286,0.995337995337995
+"K-A119","week12","project 2","uvm","0.4","Female",40,"Non-Menthol",25.4285714285714,"Camel Filter Regular","regular","Camel 99 Blue",17.3,21.3333333333333,21.3333333333333,0,1
+"K-A120","week12","project 2","uvm","0.4","Male",56,"Non-Menthol",30.8571428571429,"Camel Wide Regular","regular","Camel Wides Red King",17.7,22.2,15.6,6.6,0.702702702702703
+"K-A121","week12","project 2","uvm","0.4","Female",34,"Non-Menthol",32.2857142857143,"Camel Wide Regular","regular","Camel Wides Red King",17.7,31.8571428571429,19.2857142857143,12.5714285714286,0.605381165919282
+"K-A122","week12","project 2","uvm","2.4","Female",59,"Menthol",20.5714285714286,"Fortuna Menthol 100s","regular",NA,NA,29.1428571428571,29.1428571428571,0,1
+"K-A124","week12","project 2","uvm","2.4","Female",31,"Non-Menthol",6.57142857142857,"Marlboro Black 100s","bold",NA,NA,7.75,7.5,0.25,0.967741935483871
+"K-A125","week12","project 2","uvm","15.8","Male",28,"Non-Menthol",19.7142857142857,"Camel Blue Regular","light","Camel 99 Blue",17.3,20,20,0,1
+"K-A128","week12","project 2","uvm","0.4","Male",57,"Non-Menthol",20.1428571428571,"Marlboro Red Regular","regular","Marlboro Red King",15.8,20.1428571428571,18.5714285714286,1.57142857142857,0.921985815602837
+"K-A129","week12","project 2","uvm","0.4","Female",35,"Non-Menthol",19.1666666666667,"Marlboro Gold 100s","light","Marlboro Gold 100",16.2,13.1666666666667,11.6666666666667,1.5,0.886075949367089
+"K-A130","week12","project 2","uvm","0.4","Female",24,"Non-Menthol",10.1428571428571,"Marlboro Black Regular","bold",NA,NA,6.33333333333333,6.33333333333333,0,1
+"K-A133","week12","project 2","uvm","2.4","Male",33,"Menthol",18.5714285714286,"Marlboro Red Regular","regular","Marlboro Red King",15.8,33.4285714285714,20.5714285714286,12.8571428571429,0.615384615384615
+"K-A134","week12","project 2","uvm","2.4","Male",26,"Menthol",39.2857142857143,"Camel Crush Menthol Regular","regular","Camel Crush Menthol King",17.5,24.5333333333333,14.3333333333333,10.2,0.584239130434783
+"K-A135","week12","project 2","uvm","0.4","Male",26,"Non-Menthol",23.8333333333333,"Marlboro Red Regular","regular","Marlboro Red King",15.8,31.8333333333333,29.8333333333333,2,0.93717277486911
+"K-A139","week12","project 2","uvm","0.4","Female",38,"Non-Menthol",14.1428571428571,"Marlboro Red Regular","regular","Marlboro Red King",15.8,16.2857142857143,13,3.28571428571429,0.798245614035088
+"K-A140","week12","project 2","uvm","0.4","Female",26,"Non-Menthol",15,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,17.4285714285714,17.2857142857143,0.142857142857143,0.991803278688525
+"K-A141","week12","project 2","uvm","15.8","Female",40,"Non-Menthol",27.5,"Marlboro Red Regular","regular","Marlboro Red King",15.8,29.4285714285714,22.8571428571429,6.57142857142857,0.776699029126214
+"K-A142","week12","project 2","uvm","0.4","Male",37,"Non-Menthol",38.5714285714286,"Marlboro Red Regular","regular","Marlboro Red King",15.8,22.4285714285714,21.5714285714286,0.857142857142857,0.961783439490446
+"K-A144","week12","project 2","uvm","15.8","Female",63,"Non-Menthol",41,"Marlboro Black 100s","bold",NA,NA,22.3333333333333,22.3333333333333,0,1
+"K-A149","week12","project 2","uvm","0.4","Male",34,"Non-Menthol",20.2857142857143,"Marlboro Black 100s","bold",NA,NA,12.8333333333333,12.8333333333333,0,1
+"K-A150","week12","project 2","uvm","0.4","Female",54,"Non-Menthol",43.2857142857143,"Marlboro Black 100s","bold",NA,NA,58,56,2,0.96551724137931
+"K-A151","week12","project 2","uvm","0.4","Male",43,"Non-Menthol",18.1428571428571,"Marlboro 27s Regular","regular","Marlboro Blend 27 King",16,16.5,16.1666666666667,0.333333333333333,0.97979797979798
+"K-A152","week12","project 2","uvm","15.8","Female",26,"Non-Menthol",13.8571428571429,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,8.25,8,0.25,0.96969696969697
+"K-A154","week12","project 2","uvm","2.4","Female",38,"Menthol",6.85714285714286,"American Spirit Dark Green Menthol Regular","regular","Natural American Spirit Menthol Green King",24.3,5,5,0,1
+"K-A155","week12","project 2","uvm","0.4","Female",48,"Non-Menthol",20,"Marlboro Red Regular","regular","Marlboro Red King",15.8,27,27,0,1
+"K-A156","week12","project 2","uvm","0.4","Female",42,"Non-Menthol",30.2857142857143,"Marlboro Red Regular","regular","Marlboro Red King",15.8,17.1428571428571,16.5714285714286,0.571428571428571,0.966666666666667
+"K-A157","week12","project 2","uvm","15.8","Female",52,"Non-Menthol",33.2857142857143,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,39.8333333333333,39.8333333333333,0,1
+"K-A158","week12","project 2","uvm","0.4","Male",51,"Non-Menthol",21.1428571428571,"Marlboro Black Regular","bold",NA,NA,20.7142857142857,18.7142857142857,2,0.903448275862069
+"K-A163","week12","project 2","uvm","0.4","Female",25,"Menthol",15.4285714285714,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,12.4285714285714,10.5714285714286,1.85714285714286,0.850574712643678
+"K-A164","week12","project 2","uvm","0.4","Female",29,"Menthol",35.7142857142857,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,20.7142857142857,20,0.714285714285714,0.96551724137931
+"K-A165","week12","project 2","uvm","2.4","Female",32,"Non-Menthol",37.8571428571428,"Marlboro Red Regular","regular","Marlboro Red King",15.8,24.1428571428571,20.8571428571429,3.28571428571429,0.863905325443787
+"K-A166","week12","project 2","uvm","2.4","Female",35,"Non-Menthol",27.5,"Marlboro Red Regular","regular","Marlboro Red King",15.8,42.8571428571429,40,2.85714285714286,0.933333333333333
+"K-A169","week12","project 2","uvm","2.4","Female",28,"Non-Menthol",23,"Marlboro Red Regular","regular","Marlboro Red King",15.8,21,21,0,1
+"K-A172","week12","project 2","uvm","0.4","Male",31,"Non-Menthol",40,"Camel Filter Regular","regular","Camel 99 Blue",17.3,31.5714285714286,30,1.57142857142857,0.950226244343891
+"K-A179","week12","project 2","uvm","2.4","Female",42,"Non-Menthol",38.3333333333333,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,63,60,3,0.952380952380952
+"K-A180","week12","project 2","uvm","2.4","Female",33,"Menthol",13.8571428571429,"Newport Platinum Menthol Regular","light",NA,NA,2.71428571428571,2.71428571428571,0,1
+"K-A182","week12","project 2","uvm","15.8","Male",28,"Non-Menthol",18.5714285714286,"Pall Mall Red 100s","regular","Pall Mall Red 100",16.1,28.5714285714286,28.2857142857143,0.285714285714286,0.99
+"K-A184","week12","project 2","uvm","15.8","Female",35,"Menthol",27.2857142857143,"Marlboro Silver Menthol Regular","ultra light","Marlboro Silver Menthol King",16.9,29.2857142857143,28,1.28571428571429,0.95609756097561
+"K-A188","week12","project 2","uvm","15.8","Male",47,"Non-Menthol",20.1428571428571,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,29.7142857142857,29.7142857142857,0,1
+"K-A189","week12","project 2","uvm","2.4","Male",32,"Menthol",7.42857142857143,"American Spirit Green Menthol Regular","regular","Natural American Spirit Menthol Green King",24.3,10.4,10.4,0,1
+"K-A190","week12","project 2","uvm","15.8","Female",33,"Non-Menthol",16.8571428571429,"Newport Gold Regular","light",NA,NA,36,35.8571428571429,0.142857142857143,0.996031746031746
+"K-A194","week12","project 2","uvm","2.4","Male",30,"Non-Menthol",17.8571428571429,"Bronco Menthol Regular","regular",NA,NA,23.8571428571429,23.5714285714286,0.285714285714286,0.988023952095808
+"K-A195","week12","project 2","uvm","2.4","Male",28,"Non-Menthol",33.5714285714286,"Camel Royal Turkish Regular","regular","Camel Turkish Blend Royal Filter King",16.4,40.2,40,0.2,0.99502487562189
+"K-A196","week12","project 2","uvm","15.8","Female",32,"Menthol",16.1428571428571,"Camel Crush Menthol Regular","regular","Camel Crush Menthol King",17.5,22.8571428571429,20.8571428571429,2,0.9125
+"K-A197","week12","project 2","uvm","15.8","Male",55,"Non-Menthol",33.8571428571429,"Marlboro Red Regular","regular","Marlboro Red King",15.8,40,40,0,1
+"K-A198","week12","project 2","uvm","2.4","Female",34,"Non-Menthol",41.5714285714286,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,57.1428571428571,55.2857142857143,1.85714285714286,0.9675
+"K-A200","week12","project 2","uvm","15.8","Female",25,"Menthol",7.85714285714286,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,14.1666666666667,14.1666666666667,0,1
+"K-A204","week12","project 2","uvm","2.4","Female",58,"Non-Menthol",36,"Marlboro Black 100s","bold",NA,NA,21.5714285714286,20,1.57142857142857,0.927152317880795
+"K-A205","week12","project 2","uvm","15.8","Male",63,"Non-Menthol",20,"1st Class Red 100s","regular",NA,NA,24,24,0,1
+"K-A206","week12","project 2","uvm","15.8","Female",34,"Menthol",18,"Pall Mall Menthol 100s","regular","Pall Mall Menthol 100",15.9,17.1428571428571,16.8571428571429,0.285714285714286,0.983333333333333
+"K-A207","week12","project 2","uvm","15.8","Male",52,"Non-Menthol",55.4285714285714,"Marlboro Red Regular","regular","Marlboro Red King",15.8,40,40,0,1
+"K-A208","week12","project 2","uvm","2.4","Male",29,"Non-Menthol",16.2857142857143,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,16.8,16,0.8,0.952380952380952
+"K-A211","week12","project 2","uvm","15.8","Female",31,"Non-Menthol",17.8571428571429,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,19.8333333333333,19.1666666666667,0.666666666666667,0.966386554621849
+"K-A213","week12","project 2","uvm","0.4","Female",44,"Menthol",38.2857142857143,"Signal Menthol Max Regular","regular",NA,NA,34.5714285714286,24.8571428571429,9.71428571428571,0.71900826446281
+"K-A215","week12","project 2","uvm","15.8","Female",34,"Menthol",21.8571428571429,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,24.5,24.5,0,1
+"K-A216","week12","project 2","uvm","2.4","Female",29,"Non-Menthol",13.7142857142857,"Pall Mall Red Regular","regular","Pall Mall Red King",16,12.6666666666667,12.6666666666667,0,1
+"K-A223","week12","project 2","uvm","15.8","Female",27,"Non-Menthol",11.4285714285714,"Marlboro Red Regular","regular","Marlboro Red King",15.8,15.25,15.25,0,1
+"K-A224","week12","project 2","uvm","15.8","Female",31,"Menthol",30.2857142857143,"Camel Crush Menthol Regular","regular","Camel Crush Menthol King",17.5,30.1666666666667,30.1666666666667,0,1
+"K-A225","week12","project 2","uvm","15.8","Female",48,"Non-Menthol",19,"Pall Mall Red 100s","regular","Pall Mall Red 100",16.1,17.1428571428571,17.1428571428571,0,1
+"K-A226","week12","project 2","uvm","0.4","Female",34,"Non-Menthol",15.1428571428571,"Marlboro Black 100s","bold",NA,NA,20.25,17.25,3,0.851851851851852
+"K-A227","week12","project 2","uvm","2.4","Male",30,"Non-Menthol",29,"Marlboro Red Regular","regular","Marlboro Red King",15.8,22.5714285714286,22.4285714285714,0.142857142857143,0.99367088607595
+"K-A228","week12","project 2","uvm","2.4","Female",46,"Menthol",24.4285714285714,"Marlboro Menthol 100s","regular","Marlboro Menthol 100",17.3,35.5714285714286,35.5714285714286,0,1
+"K-A231","week12","project 2","uvm","2.4","Male",37,"Menthol",13.6666666666667,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,10.2,9.2,1,0.901960784313726
+"K-A232","week12","project 2","uvm","15.8","Female",27,"Non-Menthol",35.8571428571429,"Marlboro Black 100s","bold",NA,NA,37.5,37.5,0,1
+"K-A233","week12","project 2","uvm","2.4","Male",35,"Non-Menthol",12.6,"Camel Filter Regular","regular","Camel 99 Blue",17.3,7.85714285714286,7.85714285714286,0,1
+"K-A237","week12","project 2","uvm","0.4","Female",32,"Menthol",11.7142857142857,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,16.25,16.25,0,1
+"K-A240","week12","project 2","uvm","0.4","Male",53,"Non-Menthol",18,"Marlboro Red Regular","regular","Marlboro Red King",15.8,11.2,11.2,0,1
+"K-A241","week12","project 2","uvm","2.4","Female",28,"Menthol",26.2857142857143,"L&M Menthol 100s","regular","L&M 100 Menthol",17.5,43.3333333333333,39.5,3.83333333333333,0.911538461538462
+"K-A243","week12","project 2","uvm","15.8","Male",24,"Non-Menthol",14.1428571428571,"Marlboro Red Regular","regular","Marlboro Red King",15.8,6.2,6.2,0,1
+"K-A245","week12","project 2","uvm","2.4","Female",31,"Menthol",20.2857142857143,"Marlboro Menthol 100s","regular","Marlboro Menthol 100",17.3,30.5,30.5,0,1
+"K-A247","week12","project 2","uvm","15.8","Male",57,"Menthol",23.4285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,27.5714285714286,26.8571428571429,0.714285714285714,0.974093264248705
+"K-A248","week12","project 2","uvm","2.4","Female",33,"Non-Menthol",25.5714285714286,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,34.8571428571429,34.7142857142857,0.142857142857143,0.995901639344262
+"K-A249","week12","project 2","uvm","2.4","Male",31,"Non-Menthol",30.5714285714286,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,9.42857142857143,9.42857142857143,0,1
+"K-A251","week12","project 2","uvm","2.4","Female",31,"Non-Menthol",45.4285714285714,"Marlboro Red Regular","regular","Marlboro Red King",15.8,47,42.2857142857143,4.71428571428571,0.899696048632219
+"K-A256","week12","project 2","uvm","15.8","Female",36,"Non-Menthol",33.1428571428571,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,40.4,36,4.4,0.891089108910891
+"K-A260","week12","project 2","uvm","15.8","Male",26,"Non-Menthol",22,"Newport Red Regular","regular","Newport Non-Menthol King",18.3,25.7142857142857,25.7142857142857,0,1
+"K-A264","week12","project 2","uvm","2.4","Male",37,"Non-Menthol",19.7142857142857,"Newport Red Regular","regular","Newport Non-Menthol King",18.3,15.8,15,0.8,0.949367088607595
+"K-A266","week12","project 2","uvm","0.4","Male",34,"Non-Menthol",31.7142857142857,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,55.7142857142857,51,4.71428571428571,0.915384615384615
+"K-A267","week12","project 2","uvm","2.4","Female",28,"Non-Menthol",24.1666666666667,"Marlboro Black Regular","bold",NA,NA,30.6666666666667,30,0.666666666666667,0.978260869565217
+"K-A268","week12","project 2","uvm","0.4","Male",40,"Menthol",24.8571428571429,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,48,47.8571428571428,0.142857142857143,0.997023809523809
+"K-A270","week12","project 2","uvm","2.4","Male",39,"Non-Menthol",18.5714285714286,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,62.2857142857143,59.2857142857143,3,0.951834862385321
+"K-A271","week12","project 2","uvm","15.8","Male",33,"Menthol",29.2857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,33.5714285714286,33.5714285714286,0,1
+"L-A001","week12","project 3","uvm","2.4","Male",44,"Menthol",8.28571428571429,"Marlboro Red Regular","regular","Marlboro Red King",15.8,16,16,0,1
+"L-A003","week12","project 3","uvm","15.8","Male",41,"Non-Menthol",8.28571428571429,"Camel Nonfilter Regular","regular",NA,NA,21,21,0,1
+"L-A007","week12","project 3","uvm","0.4","Male",52,"Menthol",21.1428571428571,"Pall Mall Menthol 100s","regular","Pall Mall Menthol 100",15.9,36.7142857142857,36.7142857142857,0,1
+"L-A010","week12","project 3","uvm","15.8","Male",24,"Non-Menthol",28.5714285714286,"Marlboro Black 100s","bold",NA,NA,67.1428571428571,67.1428571428571,0,1
+"L-A011","week12","project 3","uvm","15.8","Female",36,"Menthol",28.5714285714286,"Marlboro Menthol 100s","regular","Marlboro Menthol 100",17.3,10.3333333333333,10.3333333333333,0,1
+"L-A012","week12","project 3","uvm","2.4","Female",20,"Non-Menthol",9.28571428571429,"Marlboro Red Regular","regular","Marlboro Red King",15.8,5.71428571428571,2.71428571428571,3,0.475
+"L-A014","week12","project 3","uvm","15.8","Female",40,"Non-Menthol",18.1428571428571,"Newport Red Regular","regular","Newport Non-Menthol King",18.3,22.8571428571429,22.8571428571429,0,1
+"L-A018","week12","project 3","uvm","0.4","Male",21,"Non-Menthol",0,"Marlboro 83s","regular","Marlboro 83",16.4,3.16666666666667,1.66666666666667,1.5,0.526315789473684
+"L-A019","week12","project 3","uvm","15.8","Female",33,"Menthol",37.5,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,52,35,17,0.673076923076923
+"L-A020","week12","project 3","uvm","15.8","Male",27,"Menthol",23.7142857142857,"Pall Mall Menthol 100s","regular","Pall Mall Menthol 100",15.9,33.5714285714286,33.5714285714286,0,1
+"L-A021","week12","project 3","uvm","0.4","Female",26,"Non-Menthol",11.2857142857143,"Marlboro Red Regular","regular","Marlboro Red King",15.8,1,0.428571428571429,0.571428571428571,0.428571428571429
+"L-A027","week12","project 3","uvm","2.4","Male",50,"Non-Menthol",32.1666666666667,"Reservation Crown Light 100s","light",NA,NA,19.8571428571429,13.5714285714286,6.28571428571429,0.683453237410072
+"L-A030","week12","project 3","uvm","0.4","Female",65,"Non-Menthol",12.5714285714286,"Camel Nonfilter Regular","regular",NA,NA,7,0,7,0
+"L-A036","week12","project 3","uvm","0.4","Male",27,"Non-Menthol",9.14285714285714,"Camel Royal Turkish Regular","regular","Camel Turkish Blend Royal Filter King",16.4,5.4,5.4,0,1
+"L-A039","week12","project 3","uvm","2.4","Female",19,"Non-Menthol",8.85714285714286,"American Spirit Blue Regular","regular","Natural American Spirit Blue King",21.9,3.71428571428571,2.85714285714286,0.857142857142857,0.769230769230769
+"L-A049","week12","project 3","uvm","0.4","Female",51,"Menthol",4.28571428571429,"Marlboro Midnight Regular","bold","Marlboro Midnight Menthol King",16.4,0.166666666666667,0,0.166666666666667,0
+"L-A054","week12","project 3","uvm","15.8","Female",29,"Menthol",19.8571428571429,"Reservation Rollies Menthol Regular","regular",NA,NA,28.4285714285714,27.1428571428571,1.28571428571429,0.954773869346734
+"L-A055","week12","project 3","uvm","2.4","Female",28,"Non-Menthol",8,"Camel Blue Regular","light","Camel 99 Blue",17.3,9.83333333333333,9.83333333333333,0,1
+"L-A060","week12","project 3","uvm","0.4","Male",20,"Non-Menthol",11.8571428571429,"Camel Royal Turkish Regular","regular","Camel Turkish Blend Royal Filter King",16.4,15,9.5,5.5,0.633333333333333
+"L-A064","week12","project 3","uvm","15.8","Male",35,"Non-Menthol",5.57142857142857,"Camel Crush Regular","regular","Camel Crush King",17.2,4.57142857142857,4.57142857142857,0,1
+"L-A069","week12","project 3","uvm","2.4","Female",28,"Non-Menthol",7,"American Spirit Turquoise Regular","regular","Natural American Spirit Organic Turquoise King",28.9,0,0,0,NA
+"L-A074","week12","project 3","uvm","15.8","Female",27,"Non-Menthol",24,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,26.3333333333333,26.3333333333333,0,1
+"L-A075","week12","project 3","uvm","15.8","Female",26,"Non-Menthol",4.14285714285714,"Marlboro 27s Regular","regular","Marlboro Blend 27 King",16,4,4,0,1
+"L-A077","week12","project 3","uvm","0.4","Female",29,"Non-Menthol",14.8571428571429,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,15.1666666666667,12.6666666666667,2.5,0.835164835164835
+"L-A079","week12","project 3","uvm","2.4","Male",27,"Menthol",63,"Marlboro Menthol 100s","regular","Marlboro Menthol 100",17.3,20,20,0,1
+"L-A086","week12","project 3","uvm","0.4","Female",36,"Menthol",11.5714285714286,"Marlboro Gold Menthol Regular","light","Marlboro Menthol Gold King",16.6,9,4.4,4.6,0.488888888888889
+"L-A092","week12","project 3","uvm","0.4","Female",48,"Menthol",14,"Marlboro Gold Menthol 100s","light","Marlboro Menthol Gold 100",17.4,15,15,0,1
+"L-A108","week12","project 3","uvm","2.4","Female",46,"Menthol",31.8571428571429,"Reservation Rollies Regular","regular",NA,NA,7.28571428571429,4.28571428571429,3,0.588235294117647
+"L-A118","week12","project 3","uvm","2.4","Female",27,"Non-Menthol",13.2857142857143,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,12.75,5.75,7,0.450980392156863
+"L-A120","week12","project 3","uvm","2.4","Male",28,"Non-Menthol",10.4285714285714,"American Spirit Turquoise Regular","regular","Natural American Spirit Organic Turquoise King",28.9,5.33333333333333,2.33333333333333,3,0.4375
+"L-A126","week12","project 3","uvm","2.4","Male",25,"Non-Menthol",16.6666666666667,"Marlboro Red Regular","regular","Marlboro Red King",15.8,18.1666666666667,10.6666666666667,7.5,0.587155963302752
+"L-A128","week12","project 3","uvm","0.4","Female",18,"Non-Menthol",9.57142857142857,"Marlboro Red Regular","regular","Marlboro Red King",15.8,0.285714285714286,0,0.285714285714286,0
+"L-A134","week12","project 3","uvm","15.8","Female",28,"Non-Menthol",11.7142857142857,"Eagle 20s Blue Regular","light",NA,NA,14.8333333333333,14.8333333333333,0,1
+"L-A138","week12","project 3","uvm","15.8","Female",33,"Menthol",6.14285714285714,"Marlboro Slate Menthol 100s","bold",NA,NA,7.71428571428571,7.71428571428571,0,1
+"L-A147","week12","project 3","uvm","15.8","Female",22,"Non-Menthol",6,"American Spirit Blue Regular","regular","Natural American Spirit Blue King",21.9,6.66666666666667,6.66666666666667,0,1
+"L-A155","week12","project 3","uvm","0.4","Male",21,"Non-Menthol",10.2857142857143,"Camel Filter Regular","regular","Camel 99 Blue",17.3,6.71428571428571,5.57142857142857,1.14285714285714,0.829787234042553
+"L-A156","week12","project 3","uvm","15.8","Female",45,"Non-Menthol",8.28571428571429,"Marlboro Gold 100s","light","Marlboro Gold 100",16.2,10.7142857142857,10.7142857142857,0,1
+"L-A158","week12","project 3","uvm","2.4","Male",36,"Non-Menthol",6.71428571428571,"American Spirit Blue Regular","regular","Natural American Spirit Blue King",21.9,7.28571428571429,7.28571428571429,0,1
+"L-A169","week12","project 3","uvm","2.4","Female",40,"Menthol",6.28571428571429,"Pall Mall Menthol 100s","regular","Pall Mall Menthol 100",15.9,15.1666666666667,15.1666666666667,0,1
+"L-A174","week12","project 3","uvm","15.8","Female",53,"Non-Menthol",23.8571428571429,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,25.3333333333333,25.3333333333333,0,1
+"L-A176","week12","project 3","uvm","0.4","Male",30,"Non-Menthol",13.7142857142857,"Camel Blue Regular","light","Camel 99 Blue",17.3,10,10,0,1
+"L-A181","week12","project 3","uvm","0.4","Male",28,"Non-Menthol",18.8571428571429,"Pyramid Red 100s","regular","Pyramid Red 100",17.2,20,10,10,0.5
+"L-A182","week12","project 3","uvm","15.8","Female",20,"Non-Menthol",8.28571428571429,"Marlboro Black 100s","bold",NA,NA,20,20,0,1
+"L-A192","week12","project 3","uvm","0.4","Female",59,"Non-Menthol",14.3333333333333,"Marlboro Black Regular","bold",NA,NA,5.5,5.5,0,1
+"L-A195","week12","project 3","uvm","0.4","Female",55,"Non-Menthol",13.7142857142857,"Reservation Rollies Light Regular","light",NA,NA,10,10,0,1
+"L-A205","week12","project 3","uvm","0.4","Female",47,"Non-Menthol",20.4285714285714,"Camel Filter Regular","regular","Camel 99 Blue",17.3,21.25,21.25,0,1
+"L-A212","week12","project 3","uvm","0.4","Female",33,"Non-Menthol",19.8571428571429,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,22.2857142857143,20,2.28571428571429,0.897435897435897
+"L-A218","week12","project 3","uvm","15.8","Male",52,"Non-Menthol",20.8571428571429,"Camel Blue 99s","light","Camel 99 Blue",17.3,21.1428571428571,21.1428571428571,0,1
+"L-A219","week12","project 3","uvm","0.4","Female",31,"Non-Menthol",23.1428571428571,"Marlboro Gold Special Select Regular","light","Marlboro Special Blend Gold King",15.9,7.75,3.75,4,0.483870967741935
+"L-A229","week12","project 3","uvm","15.8","Female",22,"Non-Menthol",10.5714285714286,"American Spirit Yellow White Regular","light","Natural American Spirit Yellow Mellow King",22.6,7.83333333333333,7.83333333333333,0,1
+"L-A231","week12","project 3","uvm","0.4","Male",43,"Non-Menthol",33,"Reservation Rollies 100s","regular",NA,NA,40.3333333333333,40.3333333333333,0,1
+"L-A235","week12","project 3","uvm","0.4","Female",33,"Non-Menthol",17.1428571428571,"Marlboro Red Regular","regular","Marlboro Red King",15.8,6.66666666666667,6,0.666666666666667,0.9
+"L-A239","week12","project 3","uvm","2.4","Female",54,"Menthol",19.5714285714286,"Marlboro Slate 100s","bold",NA,NA,11,11,0,1
+"L-A244","week12","project 3","uvm","0.4","Male",25,"Non-Menthol",21.1428571428571,"L&M Red 100s","regular","L&M 100",13.2,18.8571428571429,18.8571428571429,0,1
+"L-A246","week12","project 3","uvm","0.4","Male",24,"Non-Menthol",10,"Reservation Wyatt Light Regular","light",NA,NA,20,20,0,1
+"L-A248","week12","project 3","uvm","2.4","Male",30,"Menthol",19.1428571428571,"Camel Crush Menthol Regular","regular","Camel Crush Menthol King",17.5,22.4,19.6,2.8,0.875
+"L-A250","week12","project 3","uvm","15.8","Male",21,"Non-Menthol",13.8571428571429,"Marlboro Gold Special Select Regular","light","Marlboro Special Blend Gold King",15.9,11.25,11.25,0,1
+"L-A254","week12","project 3","uvm","0.4","Male",23,"Non-Menthol",9.28571428571429,"Marlboro Gold 100s","light","Marlboro Gold 100",16.2,6.75,5.5,1.25,0.814814814814815
+"L-A259","week12","project 3","uvm","0.4","Male",32,"Non-Menthol",9.57142857142857,"Camel Wide Regular","regular","Camel Wides Red King",17.7,17,17,0,1
+"L-A261","week12","project 3","uvm","2.4","Female",26,"Menthol",10.6666666666667,"Camel Crush Blue Regular","light","Camel Crush King",17.2,7.42857142857143,7.42857142857143,0,1
+"L-A262","week12","project 3","uvm","0.4","Male",53,"Non-Menthol",28.1428571428571,"Reservation Rollies Regular","regular",NA,NA,37.7142857142857,37.7142857142857,0,1
+"L-A264","week12","project 3","uvm","0.4","Female",42,"Non-Menthol",20.2857142857143,"Hand rolled","",NA,NA,20.8571428571429,19,1.85714285714286,0.910958904109589
+"L-A268","week12","project 3","uvm","0.4","Male",24,"Non-Menthol",7.42857142857143,"Marlboro 27s Regular","regular","Marlboro Blend 27 King",16,4.5,2.5,2,0.555555555555556
+"L-A269","week12","project 3","uvm","0.4","Male",40,"Menthol",4,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,4.2,4,0.2,0.952380952380952
+"L-A274","week12","project 3","uvm","15.8","Female",21,"Non-Menthol",5.42857142857143,"American Spirit Blue Regular","regular","Natural American Spirit Blue King",21.9,5.66666666666667,5.66666666666667,0,1
+"L-A276","week12","project 3","uvm","2.4","Female",24,"Non-Menthol",5.14285714285714,"Camel Filter 99s","regular","Camel 99 Blue",17.3,3,2.57142857142857,0.428571428571429,0.857142857142857
+"L-A279","week12","project 3","uvm","0.4","Male",62,"Non-Menthol",11.7142857142857,"Pall Mall Red Regular","regular","Pall Mall Red King",16,6,4,2,0.666666666666667
+"L-A281","week12","project 3","uvm","2.4","Female",28,"Non-Menthol",13.2857142857143,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,10.5,5.5,5,0.523809523809524
+"L-A286","week12","project 3","uvm","0.4","Male",22,"Non-Menthol",8.85714285714286,"Camel Blue Regular","light","Camel 99 Blue",17.3,0.75,0.25,0.5,0.333333333333333
+"L-A288","week12","project 3","uvm","0.4","Male",24,"Non-Menthol",10.8571428571429,"American Spirit Blue Regular","regular","Natural American Spirit Blue King",21.9,10,8.5,1.5,0.85
+"L-A294","week12","project 3","uvm","0.4","Female",28,"Menthol",3.14285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,2.42857142857143,2.42857142857143,0,1
+"L-A303","week12","project 3","uvm","0.4","Female",52,"Non-Menthol",23.5714285714286,"Marlboro Regular 100s","regular","Marlboro Red 100",16.7,11.8571428571429,9.71428571428571,2.14285714285714,0.819277108433735
+"L-A307","week12","project 3","uvm","2.4","Female",47,"Menthol",15.7142857142857,"Marlboro Menthol Regular","regular","Marlboro Green (Menthol) King",16.9,10.25,10.25,0,1
+"L-A308","week12","project 3","uvm","0.4","Female",26,"Non-Menthol",7.28571428571429,"Marlboro Red Regular","regular","Marlboro Red King",15.8,0,0,0,NA
+"L-A309","week12","project 3","uvm","0.4","Male",22,"Non-Menthol",8.71428571428571,"American Spirit Blue Regular","regular","Natural American Spirit Blue King",21.9,3.2,3.2,0,1
+"L-A312","week12","project 3","uvm","0.4","Male",24,"Non-Menthol",15.8571428571429,"Camel Filter 99s","regular","Camel 99 Blue",17.3,8.75,2,6.75,0.228571428571429
+"L-A314","week12","project 3","uvm","0.4","Female",24,"Menthol",25.8333333333333,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,14.25,12.25,2,0.859649122807018
+"L-A316","week12","project 3","uvm","15.8","Male",33,"Non-Menthol",27,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,51.4285714285714,51.4285714285714,0,1
+"L-A325","week12","project 3","uvm","15.8","Female",23,"Non-Menthol",9.42857142857143,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,21,21,0,1
+"L-A327","week12","project 3","uvm","0.4","Female",19,"Non-Menthol",10.4285714285714,"Marlboro Red Special Select 100s","regular","Marlboro Special Blend Red 100",16.4,4.83333333333333,3,1.83333333333333,0.620689655172414
+"L-A333","week12","project 3","uvm","0.4","Male",21,"Non-Menthol",5,"Marlboro Southern Cuts Regular","regular","Marlboro Southern Cut King",16.4,0.428571428571429,0.428571428571429,0,1
+"L-A336","week12","project 3","uvm","0.4","Male",30,"Non-Menthol",9.57142857142857,"Marlboro Red Regular","regular","Marlboro Red King",15.8,3,3,0,1
+"L-A337","week12","project 3","uvm","0.4","Female",57,"Non-Menthol",63.2857142857143,"Marlboro Gold Regular","light","Marlboro Gold King",15.9,72,72,0,1
+"L-A340","week12","project 3","uvm","0.4","Female",27,"Non-Menthol",12.1666666666667,"American Spirit Turquoise Regular","regular","Natural American Spirit Organic Turquoise King",28.9,5.75,0,5.75,0
+"L-A348","week12","project 3","uvm","2.4","Female",34,"Menthol",8,"1st Class Menthol Regular","regular",NA,NA,4.85714285714286,4.85714285714286,0,1
+"L-A351","week12","project 3","uvm","15.8","Male",41,"Non-Menthol",10.6666666666667,"Camel Filter Regular","regular","Camel 99 Blue",17.3,18.4285714285714,18.4285714285714,0,1
+"L-A352","week12","project 3","uvm","2.4","Male",23,"Non-Menthol",7.71428571428571,"Marlboro Gold 27s Regular","light","Marlboro Blend 27 King",16,4.71428571428571,4.71428571428571,0,1
+"L-A354","week12","project 3","uvm","2.4","Female",50,"Non-Menthol",20.7142857142857,"Reservation Rollies Light Regular","light",NA,NA,16.5714285714286,16.5714285714286,0,1
+"L-A359","week12","project 3","uvm","0.4","Female",45,"Non-Menthol",11,"Pall Mall Red 100s","regular","Pall Mall Red 100",16.1,2.6,2.6,0,1
+"L-A360","week12","project 3","uvm","15.8","Female",27,"Non-Menthol",11.8571428571429,"Camel Blue Regular","light","Camel 99 Blue",17.3,23.7142857142857,23.7142857142857,0,1
+"L-A362","week12","project 3","uvm","15.8","Female",49,"Non-Menthol",28.5714285714286,"Marlboro Gold Regular","light","Marlboro Gold King",15.9,27.7142857142857,27.7142857142857,0,1
+"L-A366","week12","project 3","uvm","15.8","Female",42,"Non-Menthol",20.4285714285714,"American Spirit Turquoise Regular","regular","Natural American Spirit Organic Turquoise King",28.9,21.5714285714286,21.5714285714286,0,1
+"L-A371","week12","project 3","uvm","2.4","Female",50,"Non-Menthol",15,"Marlboro Gold 100s","light","Marlboro Gold 100",16.2,29,29,0,1
+"L-A380","week12","project 3","uvm","15.8","Female",39,"Menthol",20,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,19.3333333333333,11,8.33333333333333,0.568965517241379
+"L-A386","week12","project 3","uvm","15.8","Female",37,"Non-Menthol",7.25,"Camel Filter Regular","regular","Camel 99 Blue",17.3,15.4,15.4,0,1
+"L-A392","week12","project 3","uvm","2.4","Male",20,"Non-Menthol",9.42857142857143,"Camel Royal Turkish Regular","regular","Camel Turkish Blend Royal Filter King",16.4,1.71428571428571,1.71428571428571,0,1
+"L-A395","week12","project 3","uvm","15.8","Male",26,"Non-Menthol",8,"Camel Royal Turkish Regular","regular","Camel Turkish Blend Royal Filter King",16.4,6.33333333333333,6.33333333333333,0,1
+"L-A396","week12","project 3","uvm","2.4","Female",63,"Non-Menthol",33.8571428571429,"Reservation Rollies Regular","regular",NA,NA,41.1428571428572,40.7142857142857,0.428571428571429,0.989583333333333
+"L-A404","week12","project 3","uvm","15.8","Female",22,"Menthol",8.42857142857143,"Marlboro Menthol Regular","regular","Marlboro Green (Menthol) King",16.9,12.4,11.2,1.2,0.903225806451613
+"L-A412","week12","project 3","uvm","15.8","Male",35,"Menthol",13.1428571428571,"Marlboro Black Menthol Regular","bold","Marlboro Black Menthol King",16.2,11.25,11.25,0,1
+"L-A416","week12","project 3","uvm","15.8","Female",47,"Menthol",15.4285714285714,"Fortuna Menthol Regular","regular",NA,NA,25.5,20.5,5,0.803921568627451
+"L-A418","week12","project 3","uvm","15.8","Female",31,"Non-Menthol",10,"Marlboro Red Regular","regular","Marlboro Red King",15.8,12.4285714285714,12.4285714285714,0,1
+"L-A420","week12","project 3","uvm","15.8","Female",25,"Menthol",8.57142857142857,"Marlboro Smooth Regular","regular","Marlboro Smooth Menthol King",17.4,6.85714285714286,6.85714285714286,0,1
+"L-A428","week12","project 3","uvm","2.4","Female",53,"Menthol",30.7142857142857,"Sonoma Menthol Light Regular","light",NA,NA,40,40,0,1
+"L-A435","week12","project 3","uvm","15.8","Female",23,"Non-Menthol",18.7142857142857,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,42,42,0,1
+"L-A436","week12","project 3","uvm","0.4","Male",55,"Non-Menthol",24.8571428571429,"L&M Red Regular","regular","L&M Full Flavor King",13.5,20.8571428571429,20.8571428571429,0,1
+"L-A437","week12","project 3","uvm","2.4","Male",18,"Non-Menthol",12.5714285714286,"American Spirit Black Regular","bold",NA,NA,5.75,5,0.75,0.869565217391304
+"L-A438","week12","project 3","uvm","2.4","Male",22,"Non-Menthol",16.2857142857143,"Marlboro Red Special Select Regular","regular","Marlboro Special Blend Red King",16.3,13.75,13.75,0,1
+"L-A439","week12","project 3","uvm","15.8","Female",22,"Non-Menthol",9.57142857142857,"Marlboro 27s Regular","regular","Marlboro Blend 27 King",16,2.2,2.2,0,1
+"L-A449","week12","project 3","uvm","2.4","Male",28,"Non-Menthol",22.2857142857143,"American Spirit Blue Regular","regular","Natural American Spirit Blue King",21.9,25.8571428571429,25.8571428571429,0,1
+"L-A450","week12","project 3","uvm","15.8","Male",39,"Non-Menthol",25,"Camel Filter Regular","regular","Camel 99 Blue",17.3,32.8571428571429,32.8571428571429,0,1
+"L-A458","week12","project 3","uvm","15.8","Female",49,"Menthol",35.7142857142857,"Marlboro Gold Menthol 100s","light","Marlboro Menthol Gold 100",17.4,60.4285714285714,60.4285714285714,0,1
+"L-A462","week12","project 3","uvm","15.8","Female",34,"Menthol",5.14285714285714,"American Spirit Dark Green Menthol Regular","regular","Natural American Spirit Menthol Green King",24.3,0.666666666666667,0.666666666666667,0,1
+"L-A466","week12","project 3","uvm","15.8","Male",55,"Non-Menthol",36.2857142857143,"Fortuna Red Regular","regular",NA,NA,38,38,0,1
+"L-A471","week12","project 3","uvm","15.8","Female",62,"Non-Menthol",10,"Marlboro Silver Regular","ultra light","Marlboro Silver King",17.3,10.3333333333333,10.3333333333333,0,1
+"L-A473","week12","project 3","uvm","15.8","Male",48,"Non-Menthol",13.1428571428571,"Marlboro Black 100s","bold",NA,NA,21.8333333333333,21.8333333333333,0,1
+"L-A474","week12","project 3","uvm","2.4","Female",30,"Non-Menthol",17,"American Spirit Yellow Regular","light","Natural American Spirit Yellow Mellow King",22.6,0,0,0,NA
+"L-A475","week12","project 3","uvm","2.4","Male",22,"Non-Menthol",12.5714285714286,"Camel Crush Regular","regular","Camel Crush King",17.2,7.71428571428571,7.71428571428571,0,1
+"L-A488","week12","project 3","uvm","15.8","Female",43,"Menthol",22.8571428571429,"American Blend Menthol Regular","regular",NA,NA,41.4285714285714,41.4285714285714,0,1
+"L-A491","week12","project 3","uvm","2.4","Female",46,"Menthol",27.4285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,21.5714285714286,20.5714285714286,1,0.95364238410596
+"L-A492","week12","project 3","uvm","0.4","Female",19,"Non-Menthol",6,"American Spirit Celadon Regular","regular",NA,NA,0.6,0,0.6,0
+"L-A493","week12","project 3","uvm","0.4","Male",39,"Menthol",14,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,11.8333333333333,8.66666666666667,3.16666666666667,0.732394366197183
+"L-A497","week12","project 3","uvm","15.8","Male",24,"Non-Menthol",41.4285714285714,"Marlboro Red Regular","regular","Marlboro Red King",15.8,35,35,0,1
+"L-A499","week12","project 3","uvm","15.8","Female",47,"Non-Menthol",21.2857142857143,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,28.2857142857143,28.2857142857143,0,1
+"L-A501","week12","project 3","uvm","2.4","Female",28,"Non-Menthol",23.1428571428571,"Parliament White Regular","light","Parliament White King",16.8,20,20,0,1
+"L-A502","week12","project 3","uvm","15.8","Female",35,"Menthol",20.7142857142857,"Marlboro Blue Menthol 100s","light",NA,NA,19.8571428571429,19.8571428571429,0,1
+"L-A504","week12","project 3","uvm","0.4","Male",24,"Non-Menthol",14.1428571428571,"Marlboro 27s Regular","regular","Marlboro Blend 27 King",16,14.1666666666667,14.1666666666667,0,1
+"L-A506","week12","project 3","uvm","0.4","Female",64,"Menthol",19.8571428571429,"Pall Mall Menthol 100s","regular","Pall Mall Menthol 100",15.9,16.5,16.5,0,1
+"L-A510","week12","project 3","uvm","2.4","Female",61,"Menthol",30.5714285714286,"Reservation Rollies Light Menthol Regular","light",NA,NA,0.714285714285714,0.714285714285714,0,1
+"L-A512","week12","project 3","uvm","15.8","Female",24,"Non-Menthol",20.5714285714286,"Marlboro Red Regular","regular","Marlboro Red King",15.8,15,15,0,1
+"L-A515","week12","project 3","uvm","15.8","Female",20,"Non-Menthol",13.3333333333333,"Marlboro Gold Regular","light","Marlboro Gold King",15.9,15.2857142857143,15.2857142857143,0,1
+"L-A516","week12","project 3","uvm","2.4","Female",62,"Menthol",16.5714285714286,"Capri Menthol Indigo 120s","light","",NA,11.5,10.3333333333333,1.16666666666667,0.898550724637681
+"L-A519","week12","project 3","uvm","0.4","Male",21,"Menthol",9.85714285714286,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,0,0,0,NA
+"L-A526","week12","project 3","uvm","15.8","Male",31,"Menthol",26.1428571428571,"Marlboro Smooth Regular","regular","Marlboro Smooth Menthol King",17.4,23,23,0,1
+"L-A528","week12","project 3","uvm","2.4","Male",25,"Non-Menthol",8.66666666666667,"Marlboro 27s Regular","regular","Marlboro Blend 27 King",16,10,6,4,0.6
+"L-A529","week12","project 3","uvm","15.8","Female",36,"Non-Menthol",9.57142857142857,"American Spirit Gold Regular","light","Natural American Spirit Organic Mellow Gold King",29.3,17.1428571428571,17.1428571428571,0,1
+"L-B001","week12","project 3","brown","15.8","Male",62,"Non-Menthol",9.42857142857143,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,22,22,0,1
+"L-B002","week12","project 3","brown","15.8","Female",20,"Menthol",9.42857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,14,13.6,0.4,0.971428571428571
+"L-B004","week12","project 3","brown","0.4","Male",41,"Non-Menthol",24.7142857142857,"Marlboro Gold Regular","light","Marlboro Gold King",15.9,20,20,0,1
+"L-B005","week12","project 3","brown","0.4","Male",43,"Menthol",11,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,9.66666666666667,9.66666666666667,0,1
+"L-B008","week12","project 3","brown","15.8","Male",61,"Non-Menthol",30.8571428571429,"Camel Filter Regular","regular","Camel 99 Blue",17.3,35.3333333333333,35.3333333333333,0,1
+"L-B009","week12","project 3","brown","15.8","Female",55,"Menthol",24.2857142857143,"Newport Smooth Select Menthol 100s","regular","Newport Menthol Smooth Select 100",17.8,14.7142857142857,14.7142857142857,0,1
+"L-B010","week12","project 3","brown","2.4","Female",26,"Non-Menthol",14.4285714285714,"Marlboro Red Special Select 100s","regular","Marlboro Special Blend Red 100",16.4,15.5714285714286,15.5714285714286,0,1
+"L-B015","week12","project 3","brown","2.4","Male",61,"Non-Menthol",39.7142857142857,"Marlboro Red Regular","regular","Marlboro Red King",15.8,46.3333333333333,44.3333333333333,2,0.956834532374101
+"L-B017","week12","project 3","brown","2.4","Male",56,"Menthol",14.4285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,9,8.28571428571429,0.714285714285714,0.920634920634921
+"L-B018","week12","project 3","brown","2.4","Female",53,"Non-Menthol",25.5714285714286,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,62.3333333333333,60.6666666666667,1.66666666666667,0.973262032085562
+"L-B022","week12","project 3","brown","15.8","Male",53,"Non-Menthol",23.8571428571429,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,20,20,0,1
+"L-B024","week12","project 3","brown","15.8","Female",51,"Non-Menthol",8,"1st Class Red 100s","regular",NA,NA,9,9,0,1
+"L-B029","week12","project 3","brown","2.4","Female",30,"Menthol",22.2857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,23.5714285714286,23.5714285714286,0,1
+"L-B030","week12","project 3","brown","15.8","Female",27,"Menthol",71.2857142857143,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,27.2,27.2,0,1
+"L-B042","week12","project 3","brown","0.4","Female",29,"Menthol",20.7142857142857,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,15.6,12.6,3,0.807692307692308
+"L-B045","week12","project 3","brown","2.4","Female",52,"Menthol",15.8571428571429,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,16.5714285714286,12.8571428571429,3.71428571428571,0.775862068965517
+"L-B046","week12","project 3","brown","15.8","Male",26,"Menthol",12.2857142857143,"Marlboro Menthol 100s","regular","Marlboro Menthol 100",17.3,13.4,13.4,0,1
+"L-B054","week12","project 3","brown","15.8","Male",68,"Menthol",19.4285714285714,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,18.8333333333333,18.8333333333333,0,1
+"L-B055","week12","project 3","brown","0.4","Female",45,"Menthol",22,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,33.7142857142857,33.7142857142857,0,1
+"L-B056","week12","project 3","brown","0.4","Female",32,"Menthol",12.8333333333333,"Marlboro Gold Menthol 100s","light","Marlboro Menthol Gold 100",17.4,8.83333333333333,8.83333333333333,0,1
+"L-B057","week12","project 3","brown","15.8","Female",51,"Menthol",20.1428571428571,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,45.8571428571428,45.8571428571428,0,1
+"L-B060","week12","project 3","brown","0.4","Female",50,"Non-Menthol",16.1666666666667,"Marlboro Gold 100s","light","Marlboro Gold 100",16.2,29.4285714285714,24.4285714285714,5,0.830097087378641
+"L-B063","week12","project 3","brown","0.4","Female",41,"Non-Menthol",24,"Newport Red Regular","regular","Newport Non-Menthol King",18.3,20.8333333333333,16.5,4.33333333333333,0.792
+"L-B064","week12","project 3","brown","0.4","Female",48,"Non-Menthol",16.8571428571429,"American Spirits","",NA,NA,0,0,0,NA
+"L-B069","week12","project 3","brown","2.4","Male",52,"Menthol",0,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,14.4285714285714,12.8571428571429,1.57142857142857,0.891089108910891
+"L-B077","week12","project 3","brown","2.4","Male",51,"Menthol",32.7142857142857,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,24.2857142857143,21.1428571428571,3.14285714285714,0.870588235294118
+"L-B082","week12","project 3","brown","0.4","Female",43,"Menthol",20.4285714285714,"Marlboro Black Menthol 100s","bold","Marlboro Black Menthol 100",16.6,20,20,0,1
+"L-B083","week12","project 3","brown","0.4","Female",50,"Menthol",30.8571428571429,"Marlboro Black Menthol 100s","bold","Marlboro Black Menthol 100",16.6,29.8333333333333,29.8333333333333,0,1
+"L-B084","week12","project 3","brown","2.4","Female",29,"Menthol",24.1428571428571,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,22.8333333333333,20.8333333333333,2,0.912408759124088
+"L-B089","week12","project 3","brown","0.4","Male",55,"Non-Menthol",29.5714285714286,"Pall Mall Red 100s","regular","Pall Mall Red 100",16.1,31.5,28,3.5,0.888888888888889
+"L-B091","week12","project 3","brown","2.4","Female",43,"Menthol",15.8571428571429,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,51.6666666666667,51.6666666666667,0,1
+"L-B092","week12","project 3","brown","0.4","Female",55,"Menthol",23.2857142857143,"Marlboro Blue Menthol 100s","light",NA,NA,18.8333333333333,17,1.83333333333333,0.902654867256637
+"L-B097","week12","project 3","brown","2.4","Male",57,"Menthol",14.4285714285714,"Montclair Blue 100s","regular",NA,NA,13.8333333333333,13.1666666666667,0.666666666666667,0.951807228915663
+"L-B098","week12","project 3","brown","15.8","Male",51,"Non-Menthol",23.1428571428571,"Marlboro Gold Regular","light","Marlboro Gold King",15.9,22.8333333333333,22,0.833333333333333,0.963503649635037
+"L-B100","week12","project 3","brown","2.4","Female",64,"Menthol",10.7142857142857,"Pall Mall Menthol Nanoking","regular",NA,NA,10.4285714285714,10.4285714285714,0,1
+"L-B112","week12","project 3","brown","0.4","Male",46,"Non-Menthol",22.1428571428571,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,31.2857142857143,28.4285714285714,2.85714285714286,0.908675799086758
+"L-B114","week12","project 3","brown","0.4","Female",51,"Menthol",10,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,3,3,0,1
+"L-B115","week12","project 3","brown","0.4","Female",22,"Menthol",7.83333333333333,"Marlboro Smooth Menthol 100s","regular","Marlboro Smooth Menthol 100",17.7,7.71428571428571,7,0.714285714285714,0.907407407407407
+"L-B116","week12","project 3","brown","0.4","Male",51,"Menthol",30.5714285714286,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,26.6666666666667,25,1.66666666666667,0.9375
+"L-B119","week12","project 3","brown","0.4","Female",56,"Menthol",8.57142857142857,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,7.71428571428571,7.42857142857143,0.285714285714286,0.962962962962963
+"L-B122","week12","project 3","brown","2.4","Female",28,"Menthol",7.14285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,8,8,0,1
+"L-B123","week12","project 3","brown","15.8","Male",28,"Menthol",22.1428571428571,"Marlboro Menthol 100s","regular","Marlboro Menthol 100",17.3,25,25,0,1
+"L-B124","week12","project 3","brown","0.4","Female",67,"Non-Menthol",24.5714285714286,"Pall Mall Red 100s","regular","Pall Mall Red 100",16.1,17.8571428571429,16.5714285714286,1.28571428571429,0.928
+"L-B125","week12","project 3","brown","0.4","Male",45,"Non-Menthol",29.5714285714286,"Newport Gold 100s","light",NA,NA,30.2857142857143,30.2857142857143,0,1
+"L-B128","week12","project 3","brown","2.4","Female",55,"Menthol",24.1428571428571,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,21.4285714285714,21.4285714285714,0,1
+"L-B134","week12","project 3","brown","0.4","Female",31,"Menthol",7,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,0,0,0,NA
+"L-B136","week12","project 3","brown","2.4","Male",42,"Non-Menthol",24.4285714285714,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,52.8571428571428,52.8571428571428,0,1
+"L-B137","week12","project 3","brown","0.4","Male",57,"Menthol",18.3333333333333,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,18.4,15.2,3.2,0.826086956521739
+"L-B140","week12","project 3","brown","0.4","Female",37,"Menthol",10.1428571428571,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,3,3,0,1
+"L-B146","week12","project 3","brown","0.4","Female",62,"Non-Menthol",26.4285714285714,"Pall Mall Red 100s","regular","Pall Mall Red 100",16.1,22.6666666666667,22.6666666666667,0,1
+"L-B147","week12","project 3","brown","15.8","Male",60,"Non-Menthol",18.4285714285714,"Winston 100s","regular","Winston Red 100",17.7,29,29,0,1
+"L-B149","week12","project 3","brown","2.4","Male",25,"Menthol",7.42857142857143,"Camel White Menthol Regular","light",NA,NA,6.71428571428571,6.71428571428571,0,1
+"L-B153","week12","project 3","brown","0.4","Female",55,"Menthol",18.3333333333333,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,20,20,0,1
+"L-B156","week12","project 3","brown","15.8","Female",58,"Non-Menthol",23.4285714285714,"Marlboro Silver 100s","ultra light","Marlboro Silver 100",16.9,26.8571428571429,26.7142857142857,0.142857142857143,0.99468085106383
+"L-B158","week12","project 3","brown","2.4","Female",49,"Menthol",11.5714285714286,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,10,10,0,1
+"L-B159","week12","project 3","brown","2.4","Female",57,"Menthol",20.1428571428571,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,30,29.8571428571429,0.142857142857143,0.995238095238095
+"L-B160","week12","project 3","brown","0.4","Female",36,"Menthol",15,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,15,15,0,1
+"L-B166","week12","project 3","brown","2.4","Female",30,"Menthol",12.1428571428571,"Marlboro Menthol Regular","regular","Marlboro Green (Menthol) King",16.9,8.14285714285714,8.14285714285714,0,1
+"L-B169","week12","project 3","brown","2.4","Male",35,"Non-Menthol",12,"Camel Crush Black Regular","light",NA,NA,6.71428571428571,6.57142857142857,0.142857142857143,0.978723404255319
+"L-B171","week12","project 3","brown","15.8","Female",61,"Non-Menthol",19.8571428571429,"Pall Mall Red 100s","regular","Pall Mall Red 100",16.1,21,20,1,0.952380952380952
+"L-B174","week12","project 3","brown","0.4","Female",48,"Non-Menthol",16,"Marlboro Red 100s","regular","Marlboro Red 100",16.7,25,22.1428571428571,2.85714285714286,0.885714285714286
+"L-B175","week12","project 3","brown","2.4","Female",44,"Menthol",5.71428571428571,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,7,7,0,1
+"L-B176","week12","project 3","brown","15.8","Female",37,"Menthol",17.7142857142857,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,28.1428571428571,26.2857142857143,1.85714285714286,0.934010152284264
+"L-B178","week12","project 3","brown","0.4","Male",46,"Menthol",29.7142857142857,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,26.1428571428571,26.1428571428571,0,1
+"L-B179","week12","project 3","brown","15.8","Female",28,"Non-Menthol",23.5714285714286,"Maverick Red Regular","regular",NA,NA,24.2857142857143,24.2857142857143,0,1
+"L-B181","week12","project 3","brown","15.8","Female",48,"Menthol",6.14285714285714,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,6.5,6.5,0,1
+"L-B183","week12","project 3","brown","15.8","Female",32,"Menthol",9.28571428571429,"Marlboro Menthol Regular","regular","Marlboro Green (Menthol) King",16.9,12,12,0,1
+"L-B187","week12","project 3","brown","15.8","Female",38,"Menthol",22.8571428571429,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,34.7142857142857,34.7142857142857,0,1
+"L-B188","week12","project 3","brown","15.8","Female",56,"Menthol",10.1428571428571,"1st Class Green Menthol 100s","regular",NA,NA,15.6,14.6,1,0.935897435897436
+"L-B189","week12","project 3","brown","15.8","Male",36,"Menthol",18,"L&M Menthol 100s","regular","L&M 100 Menthol",17.5,14.75,14.75,0,1
+"L-B193","week12","project 3","brown","15.8","Male",35,"Menthol",19.7142857142857,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,24.1428571428571,24.1428571428571,0,1
+"L-B194","week12","project 3","brown","15.8","Female",50,"Menthol",23.5714285714286,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,45.4,45.4,0,1
+"L-B197","week12","project 3","brown","15.8","Female",60,"Menthol",15,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,6.6,5.2,1.4,0.787878787878788
+"L-B199","week12","project 3","brown","2.4","Female",51,"Menthol",12.2857142857143,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,10.8333333333333,10.8333333333333,0,1
+"J-C001","week12","project 1","jhu","15.8","Female",44,"Menthol",14.2857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,17.6,17.6,0,1
+"J-C004","week12","project 1","jhu","2.4","Female",29,"Menthol",16.5714285714286,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,19.1666666666667,19.1666666666667,0,1
+"J-C006","week12","project 1","jhu","15.8","Female",23,"Menthol",0,"Camel Crush Menthol Regular","regular","Camel Crush Menthol King",17.5,13.8333333333333,13.8333333333333,0,1
+"J-C008","week12","project 1","jhu","2.4","Female",32,"Menthol",0,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,41.8333333333333,41.8333333333333,0,1
+"J-C009","week12","project 1","jhu","0.4","Female",27,"Menthol",21,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,8,3,5,0.375
+"J-C012","week12","project 1","jhu","2.4","Female",34,"Non-Menthol",6.16666666666667,"Camel Blue Regular","light","Camel 99 Blue",17.3,0,0,0,NA
+"J-C014","week12","project 1","jhu","0.4","Female",33,"Non-Menthol",22.5714285714286,"Camel Blue Regular","light","Camel 99 Blue",17.3,7.57142857142857,7.14285714285714,0.428571428571429,0.943396226415094
+"J-C015","week12","project 1","jhu","15.8","Female",30,"Non-Menthol",11.5714285714286,"Camel Blue Regular","light","Camel 99 Blue",17.3,6.5,6.5,0,1
+"J-C018","week12","project 1","jhu","0.4","Female",37,"Menthol",5,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,7.83333333333333,5.5,2.33333333333333,0.702127659574468
+"J-C022","week12","project 1","jhu","15.8","Female",27,"Menthol",33.8571428571429,"Marlboro Menthol Regular","regular","Marlboro Green (Menthol) King",16.9,32.1428571428571,32.1428571428571,0,1
+"J-C023","week12","project 1","jhu","0.4","Female",23,"Menthol",9.14285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,4.83333333333333,3.33333333333333,1.5,0.689655172413793
+"J-C024","week12","project 1","jhu","15.8","Female",34,"Menthol",13.8571428571429,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,20,20,0,1
+"J-C026","week12","project 1","jhu","2.4","Female",40,"Menthol",13.8571428571429,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,6,2.33333333333333,3.66666666666667,0.388888888888889
+"J-C031","week12","project 1","jhu","15.8","Female",28,"Menthol",9.2,"Marlboro Gold Menthol 100s","light","Marlboro Menthol Gold 100",17.4,25.75,25.75,0,1
+"J-C032","week12","project 1","jhu","2.4","Female",31,"Menthol",8.14285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,3.83333333333333,3.83333333333333,0,1
+"J-C033","week12","project 1","jhu","2.4","Female",33,"Menthol",23.6,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,7.25,7.25,0,1
+"J-C037","week12","project 1","jhu","15.8","Female",41,"Non-Menthol",9,"American Spirit Blue Regular","regular","Natural American Spirit Blue King",21.9,9.28571428571429,9.28571428571429,0,1
+"J-C038","week12","project 1","jhu","0.4","Female",25,"Menthol",32,"Pall Mall Menthol 100s","regular","Pall Mall Menthol 100",15.9,18.5714285714286,18.5714285714286,0,1
+"J-C040","week12","project 1","jhu","0.4","Female",28,"Non-Menthol",32.6,"Marlboro Gold Special Select 100s","light","Marlboro Special Blend Gold 100",17,36,36,0,1
+"J-C044","week12","project 1","jhu","0.4","Female",44,"Non-Menthol",26.5,"American Spirit Yellow Regular","light","Natural American Spirit Yellow Mellow King",22.6,26.6666666666667,26.6666666666667,0,1
+"J-C046","week12","project 1","jhu","0.4","Female",43,"Menthol",17.3333333333333,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,22,22,0,1
+"J-C047","week12","project 1","jhu","2.4","Female",38,"Menthol",16.6666666666667,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,25,20,5,0.8
+"J-C050","week12","project 1","jhu","0.4","Female",39,"Menthol",11.4285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,33.8,33.8,0,1
+"J-C055","week12","project 1","jhu","2.4","Female",24,"Menthol",7.28571428571429,"Marlboro Menthol Regular","regular","Marlboro Green (Menthol) King",16.9,3.8,3.8,0,1
+"J-C059","week12","project 1","jhu","2.4","Female",40,"Menthol",20.4285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,30,30,0,1
+"J-C060","week12","project 1","jhu","0.4","Female",27,"Non-Menthol",15.5714285714286,"Marlboro Red Regular","regular","Marlboro Red King",15.8,9,4.83333333333333,4.16666666666667,0.537037037037037
+"J-C063","week12","project 1","jhu","2.4","Female",44,"Menthol",28.4285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,5,5,0,1
+"J-C069","week12","project 1","jhu","15.8","Female",31,"Menthol",8.57142857142857,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,6.4,6.4,0,1
+"J-C071","week12","project 1","jhu","2.4","Female",40,"Menthol",17.4285714285714,"Camel Crush Silver Menthol Regular","light","Camel Crush Menthol Silver King",17,16.1428571428571,16.1428571428571,0,1
+"J-C079","week12","project 1","jhu","2.4","Female",30,"Menthol",14.4285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,10,10,0,1
+"J-C080","week12","project 1","jhu","0.4","Female",34,"Menthol",19.4285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,17.7142857142857,17.4285714285714,0.285714285714286,0.983870967741935
+"J-C081","week12","project 1","jhu","0.4","Female",34,"Menthol",27.5714285714286,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,19.4285714285714,19.2857142857143,0.142857142857143,0.99264705882353
+"J-C088","week12","project 1","jhu","2.4","Female",22,"Menthol",4.85714285714286,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,5,5,0,1
+"J-C090","week12","project 1","jhu","2.4","Female",27,"Menthol",13.1428571428571,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,5,0,5,0
+"J-C091","week12","project 1","jhu","0.4","Female",39,"Menthol",12.5714285714286,"Maverick Menthol Regular","regular",NA,NA,14.2857142857143,0,14.2857142857143,0
+"J-C096","week12","project 1","jhu","0.4","Female",36,"Menthol",8.33333333333333,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,7.14285714285714,7.14285714285714,0,1
+"J-C099","week12","project 1","jhu","15.8","Female",38,"Menthol",16.8571428571429,"Camel Crush Menthol Regular","regular","Camel Crush Menthol King",17.5,16.4285714285714,16.2857142857143,0.142857142857143,0.991304347826087
+"J-C100","week12","project 1","jhu","0.4","Female",39,"Non-Menthol",30.6666666666667,"Marlboro Silver 72s","ultra light","Marlboro 72 Silver",20.2,20.1666666666667,20.1666666666667,0,1
+"J-C105","week12","project 1","jhu","15.8","Female",25,"Menthol",8.5,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,11.6,11.6,0,1
+"J-C108","week12","project 1","jhu","15.8","Female",31,"Menthol",7.28571428571429,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,12.2857142857143,12.2857142857143,0,1
+"J-C114","week12","project 1","jhu","2.4","Female",24,"Menthol",18.4285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,6,0,6,0
+"J-C115","week12","project 1","jhu","15.8","Female",42,"Menthol",10.8571428571429,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,17.8571428571429,12.8571428571429,5,0.72
+"J-C120","week12","project 1","jhu","15.8","Female",30,"Menthol",10,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,10.2857142857143,7.14285714285714,3.14285714285714,0.694444444444444
+"J-C122","week12","project 1","jhu","15.8","Female",31,"Menthol",17.3333333333333,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,21.1428571428571,21.1428571428571,0,1
+"J-C123","week12","project 1","jhu","15.8","Female",30,"Menthol",8.71428571428571,"Camel Crush Menthol Regular","regular","Camel Crush Menthol King",17.5,7.14285714285714,2.14285714285714,5,0.3
+"J-C124","week12","project 1","jhu","0.4","Female",30,"Menthol",9,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,0,0,0,NA
+"J-C126","week12","project 1","jhu","15.8","Female",27,"Menthol",8.28571428571429,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,4.5,4.5,0,1
+"J-C132","week12","project 1","jhu","15.8","Female",28,"Menthol",9,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,16.1428571428571,16.1428571428571,0,1
+"J-C133","week12","project 1","jhu","15.8","Female",38,"Menthol",9.66666666666667,"Maverick Menthol Regular","regular",NA,NA,13.2,13.2,0,1
+"J-C134","week12","project 1","jhu","15.8","Female",28,"Menthol",14,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,15.8333333333333,7.16666666666667,8.66666666666667,0.452631578947368
+"J-C135","week12","project 1","jhu","15.8","Female",44,"Menthol",6.71428571428571,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,21.2857142857143,20,1.28571428571429,0.939597315436242
+"J-C136","week12","project 1","jhu","0.4","Female",44,"Menthol",9.42857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,0,0,0,NA
+"J-C140","week12","project 1","jhu","15.8","Female",38,"Menthol",21.4,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,9.33333333333333,9.33333333333333,0,1
+"J-C142","week12","project 1","jhu","15.8","Female",37,"Menthol",20,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,33.3333333333333,33.3333333333333,0,1
+"J-C143","week12","project 1","jhu","2.4","Female",29,"Menthol",8.83333333333333,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,7.16666666666667,7.16666666666667,0,1
+"J-C144","week12","project 1","jhu","2.4","Female",37,"Menthol",13.4285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,9.14285714285714,9.14285714285714,0,1
+"J-C145","week12","project 1","jhu","15.8","Female",27,"Non-Menthol",20,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,13,13,0,1
+"J-C146","week12","project 1","jhu","15.8","Female",24,"Menthol",16.2857142857143,"Camel Crush Menthol Regular","regular","Camel Crush Menthol King",17.5,16.4285714285714,16.4285714285714,0,1
+"J-C149","week12","project 1","jhu","0.4","Female",39,"Non-Menthol",22.1428571428571,"Marlboro Silver 100s","ultra light","Marlboro Silver 100",16.9,21.1428571428571,14.1428571428571,7,0.668918918918919
+"J-C153","week12","project 1","jhu","0.4","Female",41,"Menthol",18.8333333333333,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,6.5,0,6.5,0
+"J-C154","week12","project 1","jhu","15.8","Female",33,"Menthol",6,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,6.83333333333333,6.83333333333333,0,1
+"J-C158","week12","project 1","jhu","2.4","Female",37,"Menthol",12.2857142857143,"American Spirit Dark Green Menthol Regular","regular","Natural American Spirit Menthol Green King",24.3,21.4285714285714,21.1428571428571,0.285714285714286,0.986666666666667
+"J-C159","week12","project 1","jhu","2.4","Female",28,"Menthol",19.4285714285714,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,16,16,0,1
+"J-C161","week12","project 1","jhu","2.4","Female",31,"Non-Menthol",39.8571428571428,"Maverick Gold 100s","light","Maverick Gold 100",15.5,40,40,0,1
+"J-C162","week12","project 1","jhu","0.4","Female",34,"Menthol",18,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,16.5,11,5.5,0.666666666666667
+"J-C163","week12","project 1","jhu","15.8","Female",44,"Menthol",8.85714285714286,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,32.1428571428571,32.1428571428571,0,1
+"J-C164","week12","project 1","jhu","15.8","Female",39,"Menthol",10.7142857142857,"Capri Menthol","","",NA,13.6,13.6,0,1
+"J-C166","week12","project 1","jhu","0.4","Female",30,"Menthol",40.7142857142857,"Camel Crush Menthol Regular","regular","Camel Crush Menthol King",17.5,4.28571428571429,4.28571428571429,0,1
+"K-C005","week12","project 2","jhu","0.4","Male",28,"Menthol",25.3333333333333,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,23,23,0,1
+"K-C007","week12","project 2","jhu","2.4","Male",40,"Menthol",22.4,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,21.4285714285714,21.4285714285714,0,1
+"K-C008","week12","project 2","jhu","15.8","Male",36,"Menthol",21,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,23.4285714285714,22.2857142857143,1.14285714285714,0.951219512195122
+"K-C009","week12","project 2","jhu","2.4","Female",26,"Menthol",10,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,24.8571428571429,24.8571428571429,0,1
+"K-C010","week12","project 2","jhu","0.4","Female",27,"Menthol",11.4,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,8,6,2,0.75
+"K-C011","week12","project 2","jhu","15.8","Male",31,"Menthol",15.8571428571429,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,20.5714285714286,16.5714285714286,4,0.805555555555556
+"K-C012","week12","project 2","jhu","2.4","Female",54,"Menthol",19.2857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,6.66666666666667,6.66666666666667,0,1
+"K-C013","week12","project 2","jhu","2.4","Female",27,"Menthol",14.25,"Marlboro Menthol 100s","regular","Marlboro Menthol 100",17.3,22.3333333333333,22.3333333333333,0,1
+"K-C014","week12","project 2","jhu","0.4","Female",56,"Menthol",19.2857142857143,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,10.1428571428571,4.71428571428571,5.42857142857143,0.464788732394366
+"K-C015","week12","project 2","jhu","15.8","Male",52,"Menthol",20.8571428571429,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,37.1428571428571,37.1428571428571,0,1
+"K-C016","week12","project 2","jhu","15.8","Male",50,"Menthol",27.1428571428571,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,22.4285714285714,20,2.42857142857143,0.89171974522293
+"K-C018","week12","project 2","jhu","15.8","Male",33,"Menthol",27.4285714285714,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,0,NA,NA,NA
+"K-C021","week12","project 2","jhu","2.4","Female",21,"Menthol",15,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,16,15,1,0.9375
+"K-C022","week12","project 2","jhu","0.4","Female",53,"Menthol",25.8571428571429,"Ace Menthol 94 100s","light",NA,NA,30.7142857142857,30.7142857142857,0,1
+"K-C023","week12","project 2","jhu","2.4","Male",48,"Menthol",13.5,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,23.25,20,3.25,0.860215053763441
+"K-C024","week12","project 2","jhu","2.4","Female",28,"Menthol",35.8333333333333,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,27.3333333333333,24.6666666666667,2.66666666666667,0.902439024390244
+"K-C025","week12","project 2","jhu","0.4","Male",30,"Menthol",39,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,41.7142857142857,41.7142857142857,0,1
+"K-C026","week12","project 2","jhu","2.4","Male",51,"Non-Menthol",20,"Marlboro Red Special Select 100s","regular","Marlboro Special Blend Red 100",16.4,20.7142857142857,20.7142857142857,0,1
+"K-C027","week12","project 2","jhu","0.4","Male",62,"Menthol",6.42857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,7.28571428571429,7.28571428571429,0,1
+"K-C029","week12","project 2","jhu","0.4","Male",46,"Menthol",14.4285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,28.8571428571429,28.8571428571429,0,1
+"K-C032","week12","project 2","jhu","15.8","Male",51,"Menthol",37.2857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,62.1666666666667,60.1666666666667,2,0.967828418230563
+"K-C033","week12","project 2","jhu","2.4","Male",29,"Menthol",19.3333333333333,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,24.6,23.4,1.2,0.951219512195122
+"K-C035","week12","project 2","jhu","0.4","Female",34,"Menthol",45.1666666666667,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,26.8333333333333,19.3333333333333,7.5,0.720496894409938
+"K-C038","week12","project 2","jhu","2.4","Male",47,"Menthol",35.2857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,40.7142857142857,38.7142857142857,2,0.950877192982456
+"K-C039","week12","project 2","jhu","2.4","Male",42,"Menthol",27.1428571428571,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,40,40,0,1
+"K-C041","week12","project 2","jhu","2.4","Male",49,"Menthol",33.1428571428571,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,35.1666666666667,35.1666666666667,0,1
+"K-C043","week12","project 2","jhu","15.8","Male",53,"Menthol",33.1428571428571,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,75,75,0,1
+"K-C044","week12","project 2","jhu","0.4","Male",54,"Menthol",28.1428571428571,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,48.7142857142857,48,0.714285714285714,0.98533724340176
+"K-C045","week12","project 2","jhu","2.4","Female",34,"Menthol",53,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,55.1666666666667,55.1666666666667,0,1
+"K-C047","week12","project 2","jhu","15.8","Female",42,"Non-Menthol",22.1428571428571,"Newport Red 100s","regular","Newport Non-Menthol 100",18.8,35,30,5,0.857142857142857
+"K-C048","week12","project 2","jhu","0.4","Female",23,"Menthol",23.2857142857143,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,21.8571428571429,20.8571428571429,1,0.954248366013072
+"K-C050","week12","project 2","jhu","0.4","Male",57,"Non-Menthol",18.2857142857143,"Maverick Red Regular","regular",NA,NA,22.2857142857143,20.5714285714286,1.71428571428571,0.923076923076923
+"K-C052","week12","project 2","jhu","0.4","Female",24,"Menthol",48.5714285714286,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,60.7142857142857,60.7142857142857,0,1
+"K-C053","week12","project 2","jhu","0.4","Female",39,"Menthol",27,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,19.5,19.5,0,1
+"K-C054","week12","project 2","jhu","2.4","Female",53,"Menthol",26.4285714285714,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,38.5714285714286,38.5714285714286,0,1
+"K-C056","week12","project 2","jhu","0.4","Male",41,"Menthol",40,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,82.5,82.5,0,1
+"K-C058","week12","project 2","jhu","2.4","Female",49,"Menthol",14,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,4.85714285714286,4.57142857142857,0.285714285714286,0.941176470588235
+"K-C059","week12","project 2","jhu","2.4","Female",49,"Menthol",39.8571428571428,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,9.66666666666667,3.16666666666667,6.5,0.327586206896552
+"K-C060","week12","project 2","jhu","2.4","Male",47,"Menthol",35.2857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,24.8571428571429,20.4285714285714,4.42857142857143,0.82183908045977
+"K-C061","week12","project 2","jhu","0.4","Male",52,"Menthol",17,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,13.8571428571429,12.5714285714286,1.28571428571429,0.907216494845361
+"K-C062","week12","project 2","jhu","0.4","Female",51,"Menthol",40,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,60,60,0,1
+"K-C065","week12","project 2","jhu","0.4","Female",49,"Menthol",30.2857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,41,37.4285714285714,3.57142857142857,0.912891986062718
+"K-C067","week12","project 2","jhu","0.4","Female",47,"Menthol",8.42857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,30.7142857142857,19.2857142857143,11.4285714285714,0.627906976744186
+"K-C068","week12","project 2","jhu","15.8","Male",40,"Menthol",13.5714285714286,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,29.8571428571429,27.7142857142857,2.14285714285714,0.92822966507177
+"K-C069","week12","project 2","jhu","2.4","Male",52,"Menthol",20,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,58.4,46.6,11.8,0.797945205479452
+"K-C071","week12","project 2","jhu","15.8","Female",32,"Menthol",58.7142857142857,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,71,65.1428571428571,5.85714285714286,0.917505030181086
+"K-C073","week12","project 2","jhu","15.8","Male",36,"Menthol",22.6666666666667,"Newport Menthol Regular","regular","Newport Menthol Green King",17.9,19.6666666666667,18.1666666666667,1.5,0.923728813559322
+"K-C074","week12","project 2","jhu","2.4","Female",44,"Non-Menthol",31.8571428571429,"Marlboro Red Regular","regular","Marlboro Red King",15.8,20,20,0,1
+"K-C076","week12","project 2","jhu","15.8","Female",30,"Menthol",19,"KOOL Menthol Regular","regular","Kool Menthol King",17,22.1428571428571,22.1428571428571,0,1
+"K-C077","week12","project 2","jhu","15.8","Female",53,"Menthol",7.33333333333333,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,7.8,7.2,0.6,0.923076923076923
+"K-C078","week12","project 2","jhu","2.4","Male",48,"Menthol",19.5714285714286,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,20,20,0,1
+"K-C082","week12","project 2","jhu","15.8","Male",35,"Menthol",47.8571428571428,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,60.3333333333333,60.3333333333333,0,1
+"K-C086","week12","project 2","jhu","15.8","Male",52,"Menthol",41.2857142857143,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,68.5714285714286,68.5714285714286,0,1
+"K-C087","week12","project 2","jhu","0.4","Male",61,"Menthol",50,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,77.1428571428571,77.1428571428571,0,1
+"K-C088","week12","project 2","jhu","15.8","Female",42,"Menthol",25.4285714285714,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,22.6666666666667,22.6666666666667,0,1
+"K-C093","week12","project 2","jhu","2.4","Female",54,"Menthol",33.3333333333333,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,44.2857142857143,44.2857142857143,0,1
+"K-C094","week12","project 2","jhu","15.8","Female",36,"Menthol",39.5714285714286,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,88.5,88.5,0,1
+"K-C095","week12","project 2","jhu","15.8","Female",43,"Menthol",11.7142857142857,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,17.25,16.25,1,0.942028985507246
+"K-C100","week12","project 2","jhu","0.4","Female",51,"Menthol",13.5714285714286,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,10,10,0,1
+"K-C101","week12","project 2","jhu","15.8","Female",55,"Menthol",12,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,25.1428571428571,25.1428571428571,0,1
+"K-C102","week12","project 2","jhu","2.4","Male",62,"Menthol",13.7142857142857,"Maverick Menthol 100s","regular","Maverick Menthol 100",15.7,13.2857142857143,13.2857142857143,0,1
+"K-C103","week12","project 2","jhu","2.4","Male",59,"Menthol",10.1428571428571,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,11.5714285714286,8.57142857142857,3,0.740740740740741
+"K-C105","week12","project 2","jhu","15.8","Male",49,"Menthol",27.5714285714286,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,19.7142857142857,19.7142857142857,0,1
+"K-C106","week12","project 2","jhu","2.4","Female",44,"Menthol",11,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,16,15,1,0.9375
+"K-C107","week12","project 2","jhu","0.4","Male",57,"Menthol",9.28571428571429,"Newport Menthol 100s","regular","Newport Menthol Green 100",18.9,10.5,10.5,0,1
+"J-C165","week12","project 1","jhu","2.4","Female",34,"Menthol",19.2857142857143,NA,NA,NA,NA,20,20,0,1
