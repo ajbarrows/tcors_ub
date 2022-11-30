@@ -60,6 +60,25 @@ def bin_prp_change(df, var_name):
 
     return df
 
+def subset_data(df):
+    subset = [
+        'screen_id',
+        'week',
+        'project',
+        'site',
+        'dose',
+        'screen_sex',
+        'screen_age',
+        'carmine_nicotine',
+        'prp_change',
+        'prp_change_bin',
+        'prp_change_bin_label'
+        ]
+    df = df[subset]
+    df = df[df['week'] == 'week12']
+
+    return df
+
 def write_csv(df):
     df['prp_change_bin'] = df['prp_change_bin'].astype("str")
     df.to_csv("../../data/processed/model_features.csv")
@@ -70,8 +89,8 @@ df = pd.read_csv("../../data/clean/s2_full.csv")
 # df = bin_cpd(df, plot=False)
 df = prp_change(df)
 df = bin_prp_change(df, 'prp_change')
+df = subset_data(df)
 
-print(df.head())
 
 df.to_pickle("../../data/processed/model_features.pkl")
 

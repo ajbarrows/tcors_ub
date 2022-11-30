@@ -18,13 +18,13 @@ def load_features(filename = "*.pkl", path = "../../data/processed/"):
 
     return df
 
-def make_training_split(df: pd.DataFrame, y: list, test_size = 0.2, random_state=42):
+def make_training_split(df: pd.DataFrame, y: list, test_size = 0.2, random_state=np.random.RandomState(42)):
     ''' Takes dataframe for analysis. Specify dependent outcomes
     as list of column names. All others are included as predictors.'''
 
     y = df[y]
     X = df.drop(y, axis=1)
 
-    return train_test_split(X, y)
+    return train_test_split(X, y, random_state=random_state)
 
 
