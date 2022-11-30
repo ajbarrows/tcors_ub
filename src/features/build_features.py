@@ -38,25 +38,40 @@ def bin_cpd(df, plot = True):
 
     return(df)
 
-
 def prp_change(df):
     '''Calculate proportion change in smoking from baseline using total experimental CPD.
     If experimental CPD is 0, coerce proportion change to -1.'''
 
     df.loc[df['week'] == 'week0', 'total_cpd'] = np.nan
     df['prp_change'] = np.where(df['total_cpd'] == 0, -1, df['total_cpd']/df['baseline_cpd'])
+    df['prp_change'] = np.where(df['prp_change'] == np.Inf, 0, df['prp_change'])
 
     return(df)
 
+def bin_prp_change(df, var_name):
+    upper_limit = 2
+    step = .1
+    bins = np.arange(-1, upper_limit + step, step=step)
+    bins = np.append(bins, np.inf)
+
+     # construct variable based on prop_change
+    df[var_name + "_bin"] = pd.cut(df[var_name], bins, include_lowest=True).astype("category")
+    df[var_name + "_bin_label"] = df[var_name + "_bin"].cat.codes
+
+    return df
+
 def write_csv(df):
-    df['total_cpd_bin'] = df['total_cpd_bin'].astype("str")
+    df['prp_change_bin'] = df['prp_change_bin'].astype("str")
     df.to_csv("../../data/processed/model_features.csv")
 
 # main
 
 df = pd.read_csv("../../data/clean/s2_full.csv")
-df = bin_cpd(df, plot=False)
+# df = bin_cpd(df, plot=False)
 df = prp_change(df)
+df = bin_prp_change(df, 'prp_change')
+
+print(df.head())
 
 df.to_pickle("../../data/processed/model_features.pkl")
 
