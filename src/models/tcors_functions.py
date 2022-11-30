@@ -12,6 +12,12 @@ def load_data(filename = "*.csv", path = '../../data/clean/' ):
 
     return df
 
+def load_features(filename = "*.pkl", path = "../../data/processed/"):
+    filepath = path + filename
+    df = pd.read_pickle(filepath)
+
+    return df
+
 def make_training_split(df: pd.DataFrame, y: list, test_size = 0.2, random_state=42):
     ''' Takes dataframe for analysis. Specify dependent outcomes
     as list of column names. All others are included as predictors.'''
