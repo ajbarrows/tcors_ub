@@ -76,6 +76,7 @@ def subset_data(df):
         ]
     df = df[subset]
     df = df[df['week'] == 'week12']
+    df = df.dropna(subset = ['carmine_nicotine'])
 
     return df
 
@@ -91,6 +92,7 @@ df = prp_change(df)
 df = bin_prp_change(df, 'prp_change')
 df = subset_data(df)
 
+print(df['prp_change_bin'].value_counts())
 
 df.to_pickle("../../data/processed/model_features.pkl")
 
