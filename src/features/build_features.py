@@ -48,9 +48,8 @@ def prp_change(df):
 
     return(df)
 
-def bin_prp_change(df, var_name):
+def bin_prp_change(df, var_name, step = .1):
     upper_limit = 2
-    step = .1
     bins = np.arange(-1, upper_limit + step, step=step)
     bins = np.append(bins, np.inf)
 
@@ -84,18 +83,16 @@ def write_csv(df):
     df['prp_change_bin'] = df['prp_change_bin'].astype("str")
     df.to_csv("../../data/processed/model_features.csv")
 
+def build_features(step = .1):
+    df = pd.read_csv("../../data/clean/s2_full.csv")
+    df = prp_change(df)
+    df = bin_prp_change(df, 'prp_change', step = step)
+    df = subset_data(df)
+    df.to_pickle("../../data/processed/model_features.pkl")
+    write_csv(df)
+
+
 # main
 
-df = pd.read_csv("../../data/clean/s2_full.csv")
-# df = bin_cpd(df, plot=False)
-df = prp_change(df)
-df = bin_prp_change(df, 'prp_change')
-df = subset_data(df)
-
-print(df['prp_change_bin'].value_counts())
-
-df.to_pickle("../../data/processed/model_features.pkl")
-
-write_csv(df)
-
-
+if __name__ == "__main__":
+    build_features()
