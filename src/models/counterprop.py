@@ -1,16 +1,21 @@
 import numpy as np
 from collections import namedtuple
 
+np.random.seed(42)
 
 def onehot_output(y):
     n_values = np.max(y) + 1
     return np.eye(n_values + 1)[y]
 
-def initialize_weights(X, y, n_h):
+def initialize_weights(X, y, n_h, random_init=False):
     n_i = X.shape[1]
     n_t = y.shape[1]
 
-    W1 = np.array(X).T
+    if random_init:
+        W1 = np.array(np.random.uniform(size = (n_i, n_h)))
+    else:
+        W1 = np.array(X).T
+    
     W2 = np.array(np.random.uniform(size = (n_h, n_t)))
 
     weights = namedtuple("weights", ["W1", "W2"])
@@ -18,7 +23,7 @@ def initialize_weights(X, y, n_h):
     return weights(W1, W2)
 
 def add_noise(W1):
-    noise = np.random.normal(0, 0.25, W1.shape)
+    noise = np.random.normal(0, 0.1, W1.shape)
     W1_noisy = W1 + noise
     return W1_noisy
 
@@ -78,9 +83,9 @@ def rmse(X, y_true, y_pred):
 
 
 
-def train_model(X: np.array, y: np.array, n_hidden=10, epochs=100, alpha_val=0.7, beta_val=0.1):
+def train_model(X: np.array, y: np.array, random_init=False, n_hidden=10, epochs=100, alpha_val=0.7, beta_val=0.1):
 
-    weights = initialize_weights(X, y, n_hidden)
+    weights = initialize_weights(X, y, n_hidden, random_init=random_init)
 
     M = X.shape[0]
     rmse_values = []
@@ -95,6 +100,8 @@ def train_model(X: np.array, y: np.array, n_hidden=10, epochs=100, alpha_val=0.7
         rmse_i = rmse(X, y, outputs)
         rmse_values.append(rmse_i)
     
+    pass1_weights = weights
+
     # add noise to W1, retrain
     weights = weights._replace(W1 = add_noise(weights.W1))
     for i in range(epochs):
@@ -107,10 +114,30 @@ def train_model(X: np.array, y: np.array, n_hidden=10, epochs=100, alpha_val=0.7
             outputs.append(fwd_pass.S_k)
         rmse_i = rmse(X, y, outputs)
         rmse_values.append(rmse_i)
-    
-    model_fit = namedtuple("model_fit", ["outputs", "rmse_values"])
 
-    return model_fit(outputs, rmse_values)
+    pass2_weights = weights
+
+    model_fit = namedtuple("model_fit", ["rmse_values", "pass1_weights", "pass2_weights"])
+
+    return model_fit(rmse_values, pass1_weights, pass2_weights)
+
+def predict_model(X: np.array, y: np.array, weights):
+    M = X.shape[0]
+    n_h = weights.W1.shape[1]
+
+    outputs = []
+    for m in range(M):
+        V = X[m, :]
+        t = y[m, :]
+        fwd_pass = forward_pass(V, weights, n_h)
+        outputs.append(fwd_pass.S_k)
+
+    # winner-take-all
+    predict_cat = np.argmax(outputs, axis=1)
+
+    result = namedtuple("result", ["predict_prob", "predict_cat"])
+
+    return result(outputs, predict_cat)
 
 
 
@@ -120,13 +147,14 @@ if __name__ == "__main__":
 
     y_train = onehot_output(y_train)
     # weights = initialize_weights(X_train, onehot_output(y_train), n_h = 10)
-    mod = train_model(X_train, y_train, n_hidden = len(X_train), epochs=50)
+    mod = train_model(X_train, y_train,n_hidden = len(X_train), epochs=25)
 
     import matplotlib.pyplot as plt
 
     plt.plot(mod.rmse_values)
-    plt.title('r')
     plt.show()
+
+
     # print(np.unique(y_train))
     # print(onehot_output(y_train).shape[1])
 

@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
+import pandas as pd
 
 
 def make_pointplot(df, yvar, ylabel, color_var, legend_title, title, filename, save=False):
@@ -54,3 +55,15 @@ def clf_plt(df):
     p.legend.set_title(None)
     plt.title("Classification Performance")
 
+def rmse_cv(rmse_dict, title=None):
+    rmse_df = pd.DataFrame(rmse_dict)
+    rmse_df = pd.melt(rmse_df, var_name = "fold", value_name = "rmse")
+    rmse_df['epoch'] = rmse_df.groupby('fold').cumcount()
+
+    sns.lineplot(
+        data=rmse_df,
+        x = "epoch",
+        y = "rmse",
+        hue = "fold"
+    )
+    plt.title(title)
