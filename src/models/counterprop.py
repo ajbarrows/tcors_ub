@@ -1,16 +1,26 @@
 import numpy as np
 from collections import namedtuple
 
+
+def onehot_output(y):
+    n_values = np.max(y) + 1
+    return np.eye(n_values + 1)[y]
+
 def initialize_weights(X, y, n_h):
     n_i = X.shape[1]
     n_t = y.shape[1]
 
-    W1 = np.array(np.random.uniform(size = (n_i, n_h)))
+    W1 = np.array(X).T
     W2 = np.array(np.random.uniform(size = (n_h, n_t)))
 
     weights = namedtuple("weights", ["W1", "W2"])
 
     return weights(W1, W2)
+
+def add_noise(W1):
+    noise = np.random.normal(0, 0.25, W1.shape)
+    W1_noisy = W1 + noise
+    return W1_noisy
 
 def min_euclidean_dist(V, W1):
     ''' Return node with smallest Euclidean distance'''
@@ -27,7 +37,7 @@ def min_euclidean_dist(V, W1):
 def forward_pass(V, weights, n_h):
     a_j = np.zeros(n_h)
     winS_j = min_euclidean_dist(V, weights.W1)
-
+    
     a_j[winS_j] = 1
 
     S_k = np.dot(a_j, weights.W2)
@@ -42,7 +52,7 @@ def forward_pass(V, weights, n_h):
         weights.W2
     )
     
-def adjust_weights(fwd_pass, V, t, alpha_val, beta_val):
+def adjust_weights(fwd_pass, V, t, alpha_val, beta_val, adjust_w2=True):
 
     W1 = fwd_pass.W1
     W2 = fwd_pass.W2
@@ -51,9 +61,10 @@ def adjust_weights(fwd_pass, V, t, alpha_val, beta_val):
     W1win = W1[:, fwd_pass.winS_j]
     W1[:, fwd_pass.winS_j] = W1win + alpha_val * (V - W1win)
 
-    # output weights
-    W2win = W2[fwd_pass.winS_j, :]
-    W2[fwd_pass.winS_j, :] = W2win + beta_val * (t - fwd_pass.S_k)
+    if adjust_w2:
+        # output weights
+        W2win = W2[fwd_pass.winS_j, :]
+        W2[fwd_pass.winS_j, :] = W2win + beta_val * (t - fwd_pass.S_k)
 
     new_weights = namedtuple("new_weights", ["W1", "W2"])
 
@@ -66,6 +77,7 @@ def rmse(X, y_true, y_pred):
     return np.sqrt(np.sum(np.square(y_pred - y_true) / (n_p * n_o)))
 
 
+
 def train_model(X: np.array, y: np.array, n_hidden=10, epochs=100, alpha_val=0.7, beta_val=0.1):
 
     weights = initialize_weights(X, y, n_hidden)
@@ -75,11 +87,23 @@ def train_model(X: np.array, y: np.array, n_hidden=10, epochs=100, alpha_val=0.7
     for i in range(epochs):
         outputs = []
         for m in range(M):
-            V = X[m, :].T
+            V = X[m, :]
             t = y[m, :]
-
             fwd_pass = forward_pass(V, weights, n_hidden)
             weights = adjust_weights(fwd_pass, V, t, alpha_val, beta_val)
+            outputs.append(fwd_pass.S_k)
+        rmse_i = rmse(X, y, outputs)
+        rmse_values.append(rmse_i)
+    
+    # add noise to W1, retrain
+    weights = weights._replace(W1 = add_noise(weights.W1))
+    for i in range(epochs):
+        outputs = []
+        for m in range(M):
+            V = X[m, :]
+            t = y[m, :]
+            fwd_pass = forward_pass(V, weights, n_hidden)
+            weights = adjust_weights(fwd_pass, V, t, alpha_val, beta_val, adjust_w2=True)
             outputs.append(fwd_pass.S_k)
         rmse_i = rmse(X, y, outputs)
         rmse_values.append(rmse_i)
@@ -87,3 +111,26 @@ def train_model(X: np.array, y: np.array, n_hidden=10, epochs=100, alpha_val=0.7
     model_fit = namedtuple("model_fit", ["outputs", "rmse_values"])
 
     return model_fit(outputs, rmse_values)
+
+
+
+if __name__ == "__main__":
+    X_train = np.load("../../data/processed/X_train.npy")
+    y_train = np.load("../../data/processed/y_train.npy")
+
+    y_train = onehot_output(y_train)
+    # weights = initialize_weights(X_train, onehot_output(y_train), n_h = 10)
+    mod = train_model(X_train, y_train, n_hidden = len(X_train), epochs=50)
+
+    import matplotlib.pyplot as plt
+
+    plt.plot(mod.rmse_values)
+    plt.title('r')
+    plt.show()
+    # print(np.unique(y_train))
+    # print(onehot_output(y_train).shape[1])
+
+    # print(X_train.shape)
+
+    # print(add_noise(X_train))
+ 

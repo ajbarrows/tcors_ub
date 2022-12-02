@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-from sklearn.preprocessing import OneHotEncoder, StandardScaler
+from sklearn.preprocessing import MinMaxScaler
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.linear_model import LinearRegression
@@ -36,9 +36,9 @@ def assess_clf_perf(preds, y_test, step):
     return merged
 
 
-def extract_coefficients(mod):
-    prep = mod.named_steps['preprocessor']
-    colnames = prep.get_feature_names_out()
+def extract_coefficients(mod, X_train):
+    # prep = mod.named_steps['preprocessor']
+    colnames = X_train.columns
     coef = mod.named_steps['regression'].coef_ 
 
     coef_df =  pd.concat([
@@ -71,25 +71,11 @@ def clf_metrics(clf_augment_df):
     )
     return clf_rep
 
-def fit_linear(X, y, num_predictors: list, cat_predictors: list, bin_step = 0.1, random_state=42):
-
-    scaler = StandardScaler()
-    encoder = OneHotEncoder(sparse=False)
-
-
-    preprocessor = ColumnTransformer(
-        transformers = [
-            ("num", scaler, num_predictors),
-            ("cat", encoder, cat_predictors)
-        ]
-    )
+def fit_linear(X_train, X_test, y_train, y_test,  bin_step = 0.1, random_state=42):
 
     reg = Pipeline(
-        steps = [("preprocessor", preprocessor), ("regression", LinearRegression())]
+        steps = [("regression", LinearRegression())]
     )
-
-    X_train, X_test, y_train, y_test = train_test_split(X, y['prp_change'], test_size=0.2, random_state=random_state)
-
     # estimate training performance
     cv_scores = cross_val_score(reg, X_train, y_train, cv = 5)
 
@@ -104,7 +90,7 @@ def fit_linear(X, y, num_predictors: list, cat_predictors: list, bin_step = 0.1,
     avg_scores = gather_scores(cv_scores, test_score)
     
     # extract coefficients
-    coefs = extract_coefficients(reg)
+    coefs = extract_coefficients(reg, X_train)
 
     # assess performance as though it were a classifier
     clf_augment_df = assess_clf_perf(preds, y_test, step = bin_step)

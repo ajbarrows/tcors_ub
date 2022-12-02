@@ -43,14 +43,14 @@ def prp_change(df):
     If experimental CPD is 0, coerce proportion change to -1.'''
 
     df.loc[df['week'] == 'week0', 'total_cpd'] = np.nan
-    df['prp_change'] = np.where(df['total_cpd'] == 0, -1, df['total_cpd']/df['baseline_cpd'])
+    df['prp_change'] = np.where(df['total_cpd'] == 0, 0, df['total_cpd']/df['baseline_cpd'])
     df['prp_change'] = np.where(df['prp_change'] == np.Inf, 0, df['prp_change'])
 
     return(df)
 
 def bin_prp_change(df, var_name, step = .1):
     upper_limit = 2
-    bins = np.arange(-1, upper_limit + step, step=step)
+    bins = np.arange(0, upper_limit + step, step=step)
     bins = np.append(bins, np.inf)
 
      # construct variable based on prop_change
