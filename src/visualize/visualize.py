@@ -31,18 +31,25 @@ def plot_bins(df):
     n_cat = df['prp_change_bin'].nunique()
     df_plt = df.groupby(['dose', 'prp_change_bin'])['prp_change_bin'].size().reset_index(name = "counts")
 
-    sns.catplot(
+    fig = sns.catplot(
         data=df_plt,
         x='prp_change_bin',
         y="counts",
         hue = 'dose',
         kind="bar"
     )
+
+    title="Categorical Model of Prp. Change in CPD from Baseline"
+
+    sns.move_legend(    
+        fig, "lower center",
+        bbox_to_anchor=(.5, 1), ncol=3, title=title, frameon=False,
+    )
     plt.xticks(rotation = 45)
     plt.xlabel("Binned Proportion of Baseline CPD")
     plt.ylabel("Subjects")
-    plt.suptitle("Categorical Model of Prp. Change in CPD from Baseline", y = 1)
-    plt.text(x=1, y=40, s= str(n_cat) + " bins")
+    # plt.title("Categorical Model of Prp. Change in CPD from Baseline", y = 1)
+    plt.text(x=1, y=20, s= str(n_cat) + " bins")
 
 def clf_plt(df):
     p = sns.catplot(
