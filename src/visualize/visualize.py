@@ -30,26 +30,27 @@ def plot_bins(df):
 
     n_cat = df['prp_change_bin'].nunique()
     df_plt = df.groupby(['dose', 'prp_change_bin'])['prp_change_bin'].size().reset_index(name = "counts")
-
     fig = sns.catplot(
         data=df_plt,
         x='prp_change_bin',
         y="counts",
         hue = 'dose',
-        kind="bar"
+        kind="bar",
+        height = 8,
+        aspect = 11/8
     )
-
-    title="Categorical Model of Prp. Change in CPD from Baseline"
 
     sns.move_legend(    
         fig, "lower center",
-        bbox_to_anchor=(.5, 1), ncol=3, title=title, frameon=False,
+        bbox_to_anchor=(.5, 1), ncol=3, title=None, frameon=False,
     )
     plt.xticks(rotation = 45)
     plt.xlabel("Binned Proportion of Baseline CPD")
     plt.ylabel("Subjects")
-    # plt.title("Categorical Model of Prp. Change in CPD from Baseline", y = 1)
     plt.text(x=1, y=20, s= str(n_cat) + " bins")
+
+
+
 
 def clf_plt(df):
     p = sns.catplot(
@@ -60,17 +61,18 @@ def clf_plt(df):
         kind = 'bar'
     )
     p.legend.set_title(None)
-    plt.title("Classification Performance")
+    plt.title("Classification Performance: 'Lockbox' Set")
 
-def rmse_cv(rmse_dict, title=None):
-    rmse_df = pd.DataFrame(rmse_dict)
-    rmse_df = pd.melt(rmse_df, var_name = "fold", value_name = "rmse")
+def rmse_cv(rmse_df, title=None):
+    # rmse_df = pd.DataFrame(rmse_dict)
+    rmse_df = pd.melt(rmse_df, id_vars='model', var_name='fold', value_name='rmse')
     rmse_df['epoch'] = rmse_df.groupby('fold').cumcount()
 
     sns.lineplot(
         data=rmse_df,
         x = "epoch",
         y = "rmse",
-        hue = "fold"
+        hue = "fold",
+        col = 'model'
     )
     plt.title(title)
