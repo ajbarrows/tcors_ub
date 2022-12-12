@@ -2,6 +2,7 @@ $ cat .gitignore
 password.csv
 /references/
 /src/old/
+data/
 *.RData
 *.Rhistory
 *.DS_Store

@@ -81,8 +81,6 @@ def rmse(X, y_true, y_pred):
 
     return np.sqrt(np.sum(np.square(y_pred - y_true) / (n_p * n_o)))
 
-
-
 def train_model(X: np.array, y: np.array, random_init=False, n_hidden=10, epochs=100, alpha_val=0.7, beta_val=0.1):
 
     weights = initialize_weights(X, y, n_hidden, random_init=random_init)

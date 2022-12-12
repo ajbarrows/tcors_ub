@@ -71,7 +71,8 @@ def subset_data(df):
         'carmine_nicotine',
         'prp_change',
         'prp_change_bin',
-        'prp_change_bin_label'
+        'prp_change_bin_label',
+        'baseline_cpd'
         ]
     df = df[subset]
     df = df[df['week'] == 'week12']
